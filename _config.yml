@@ -2,7 +2,7 @@
 name: Luis Chancí
 job_title: Economics
 email: lchanci1@binghamton.edu
-description: I'm an economics Ph.D. student at SUNY - Binghamton, and Professor in UST-Chile.
+description: I'm an fourth year Ph.D. student in SUNY - Binghamton and professor of economics in UST-Chile.
 avatar: /assets/images/pic_twitter.jpg
 favicon: /assets/images/logo.png
 twitter_handler: davidchanci
@@ -65,7 +65,7 @@ baseurl: ""
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /teaching/:path/
   research:
     output: true
     permalink: /research/:title
