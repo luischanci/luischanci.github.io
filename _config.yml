@@ -7,6 +7,7 @@ description            : &description "I am a fourth-year Ph.D. student in the D
                           I also hold an appoitment as professor of economics at the Department of Business and Economics at UST-Chile."
 url                    : https://luischanci.github.io
 repository             : "luischanci/luischanci.github.io"
+avatar                 : ""/assets/images/luischanci.jpg"
 
 # Site Author
 author:
