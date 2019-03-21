@@ -3,9 +3,9 @@ locale                 : "en-US"
 title                  : "Luis Chancí"
 title_separator        : "-"
 name                   : &name "Luis Chancí"
-description            : &description "I am a fourth-year Ph.D. student in the Department of Economics at the State University of New York at Binghamton.
-                          I also hold an appoitment as professor of economics at the Department of Business and Economics at UST-Chile."
-url                    : https://luischanci.github.io
+job_title              : "Economics"
+description            : &description "I am a fourth-year Ph.D. student in the Department of Economics at the State University of New York at Binghamton. I also hold an appoitment as professor of economics at the Department of Business and Economics at UST-Chile."
+url                    : "https://luischanci.github.io"
 repository             : "luischanci/luischanci.github.io"
 avatar                 : "/assets/images/luischanci.jpg"
 
@@ -77,10 +77,10 @@ baseurl: ""
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching/:path/
   research:
     output: true
-    permalink: /:collection/:title
+    permalink: /research/:title
 
 # Defaults
 defaults:
