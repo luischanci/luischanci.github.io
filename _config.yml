@@ -1,23 +1,23 @@
 # General Settings
-name: Alvaro Carril
-job_title: econ research &amp; computer tools
-email: acarril@princeton.edu
-description: I'm an economics PhD student @Princeton. I work with computers.
-avatar: /assets/pics/acarril-princeton.jpg
-favicon: /assets/icon/analytics-trans.png
-twitter_handler: alvcarril
-analytics_code: UA-54241026-2
-disqus: alvarocarril
+name: Luis Chancí
+job_title: Economics
+email: lchanci1@binghamton.edu
+description: I'm an economics Ph.D. student at SUNY - Binghamton, and Professor in UST-Chile.
+avatar: /assets/images/pic_twitter.jpg
+favicon: /assets/images/logo.png
+twitter_handler: davidchanci
+analytics_code: 102016860
+disqus: luischanci
 
 # Social Accounts
 social_networks:
 -  { name: facebook, url: '' }
--  { name: twitter, url: 'http://twitter.com/alvcarril' }
--  { name: instagram, url: 'https://www.instagram.com/alvcarril/' }
+-  { name: twitter, url: 'http://twitter.com/davidchanci' }
+-  { name: instagram, url: 'https://www.instagram.com/davidchanci/' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: '' }
 -  { name: skype, url: '' }
--  { name: github, url: 'https://github.com/acarril' }
+-  { name: github, url: 'https://github.com/luischanci' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
@@ -28,7 +28,7 @@ social_networks:
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
--  { name: flickr, url: '' }
+-  { name: flickr, url: 'https://www.flickr.com/davidchanci/' }
 -  { name: spotify, url: '' }
 -  { name: steam, url: '' }
 -  { name: wordpress, url: '' }
