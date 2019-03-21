@@ -13,7 +13,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: Project
     description: a project with a background image
-    img: /assets/images/12.jpg
+    img: /assets/images/candon.jpg
     ---
 
 
@@ -28,4 +28,4 @@ You can also put regular text between your rows of images.  *bled* for your proj
 
 <br/><br/>
 
-The code is simple. 
+The code is simple.
