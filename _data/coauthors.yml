@@ -1,5 +1,9 @@
 Subal C. Kumbhakar:
-  webpage: 'http://bingweb.binghamton.edu/~kkar/'
+  name        : "Subal C. Kumbhakar"
+  uri         : "http://bingweb.binghamton.edu/~kkar/"
+  email       : "kkar@binghamton.edu"
+  bio         : " "
 
 Florian Kuhn:
+  name        : "Florian Kuhn"
   webpage: 'http://www.floriankuhn.com/'

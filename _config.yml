@@ -1,14 +1,24 @@
 # General Settings
-name: Luis Chancí
-job_title: Economics
-email: lchanci1@binghamton.edu
-description: I am a fourth-year Ph.D. student in the Department of Economics at the State University of New York at Binghamton.
-             I also hold an appoitment as professor of economics at the Department of Business and Economics at UST-Chile.
-avatar: /assets/images/luischanci.jpg
-favicon: /assets/images/logo.png
-twitter_handler: davidchanci
-analytics_code: 102016860
-disqus: luischanci
+locale                 : "en-US"
+title                  : "Luis Chancí"
+title_separator        : "-"
+name                   : &name "Luis Chancí"
+description            : &description "I am a fourth-year Ph.D. student in the Department of Economics at the State University of New York at Binghamton.
+                          I also hold an appoitment as professor of economics at the Department of Business and Economics at UST-Chile."
+url                    : https://luischanci.github.io
+repository             : "luischanci/luischanci.github.io"
+
+# Site Author
+author:
+  name             : "Chancí"
+  email            : "lchanci1@binghamton.edu"
+  avatar           : /assets/images/luischanci.jpg
+  favicon          : /assets/images/logo.png
+  twitter_handler  : "davidchanci"
+  analytics_code   : 102016860
+  disqus           : "luischanci"
+  github           : "luischanci"
+  orcid            : "https://orcid.org/0000-0002-6239-2156"
 
 # Social Accounts
 social_networks:
@@ -64,26 +74,46 @@ baseurl: ""
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  projects:
+  teaching:
     output: true
-    permalink: /teaching/:path/
+    permalink: /:collection/:path/
   research:
     output: true
-    permalink: /research/:title
+    permalink: /:collection/:title
 
+# Defaults
 defaults:
+  # _pages
   - scope:
       path: ""
-      type: "research"
+      type: pages
     values:
-      layout: research
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Includes
 include: ["_pages"]
 
 # Outputting
-permalink: /posts/:title
-category_dir: categories
+permalink: /:categories/:title
 
 # Pagination
 paginate: 10
@@ -113,5 +143,3 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
 #    css_class: 'highlight'
-
-theme: jekyll-theme-minimal
