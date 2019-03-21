@@ -6,7 +6,7 @@ description: Res.
 hide: true
 ---
 
-{% for project in site.projects %}
+{% for project in site.teaching %}
 
 {% if project.redirect %}
 <div class="project">
