@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: research
 title: "Econometrics"
 collection: teaching
 type: "Lecture"
