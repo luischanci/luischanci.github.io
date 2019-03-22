@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 categories: econ
-hidden: true
+hidden: false
 ---
 
 In progress ...
