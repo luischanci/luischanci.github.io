@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: page
 title: "Econometrics"
 collection: teaching
 type: "Lecture"
@@ -10,11 +10,10 @@ location: "New York, USA"
 ---
 
 ## Introduction to Econometrics (Econ-162)
-======
+### State University of New York at Binghamton, USA
+
 
 $$Y_i=\beta_0+\beta_1X_{1i}+...+\beta_1X_{ki}+u_i$$
-
-State University of New York at Binghamton, USA
 
 **Role:** Instructor
 
