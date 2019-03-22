@@ -22,7 +22,9 @@ $$Y_i=\beta_0+\beta_1X_{1i}+...+\beta_1X_{ki}+u_i$$
 
 **Description:** Undergrad course of introduction to Econometrics.
 
-**Textbooks:** Wooldridge, Introductory Econometrics; and Stock and Watson, Introduction to Econometrics.
+**Textbooks:** 
+- Wooldridge, Introductory Econometrics
+- Stock and Watson, Introduction to Econometrics.
 
 **Syllabus:** [syllabus]('').
 
