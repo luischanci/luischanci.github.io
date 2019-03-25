@@ -2,7 +2,7 @@
 layout: page
 title:  "About"
 permalink: "/about/"
-order: 3
+order: 1
 ---
 
 I am a fourth-year Ph.D. student in the Department of Economics at the State University of New York at Binghamton.

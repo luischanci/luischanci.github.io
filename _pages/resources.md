@@ -1,16 +1,32 @@
 ---
 layout: page
-title: Resources
+title: "Resources"
 permalink: "/resources/"
-order: 2
+order: 5
 ---
 
-This page is a repository of resources: [software](#software) and other [documents](#documents).
+This page is a repository of resources: Programs and other documents.
+
+-----
+### Programs
+
+#### R
+<!--- (Estoy trabajando en esta parte: crear lin similar a publicaciones... postear contenido de clases) -->
+
+<div id="resources">
+<ul class="ul-resources">
+  {% for item in site.resources %}{% if item.software == 'r' %}
+    <li>
+    {{ item.topic }}
+    </li>
+  {% endif %}{% endfor %}
+</ul>
+</div>
 
 
-### Software
+#### Stata
+Programs can be installed using `net install chks, from(https://luischanci.github.io/resources/stata/chks) replace`.
 
-Stata programs can be installed using `ssc install <program>`.
 
 ### Documents
 
