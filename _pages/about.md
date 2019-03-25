@@ -5,13 +5,19 @@ permalink: "/about/"
 order: 1
 ---
 
-I am a fourth-year Ph.D. student in the Department of Economics at the State University of New York at Binghamton.
-I also hold an appointment as professor of economics at UST-Chile.
+I am a fourth-year Ph.D. student in Economics at the State University of New York at Binghamton. I also hold an appointment as professor of economics at UST-Chile.
 
-You can find my CV [here](/cv) and other information related to [teaching](/resources) and [research](/research).
+In this website you can find information related to my [CV](/CV), [teaching](/teaching/), [research](/research/), and other resources .
 
-Feel free to contact me at [lchanci1@binghamton.edu](mailto:lchanci1@binghamton.edu).
+Feel free to contact me at <mailto:lchanci1@binghamton.edu>.
 
-# About this site
+$$\,$$
 
-I used to use [Google-sites](https://sites.google.com/site/davidchanci) and I am moving to Github. This place is under contruction.
+------
+Notes:
+
+1.  I used to use [Google-sites](https://sites.google.com/site/davidchanci){:target="\_blank"}, but I am starting this new project using Github. Thus, this website is under construction.
+
+2.  Full name - last name: **Luis David Chancí Arango**.
+
+3.  Social media: I like #Econtwitter in twitter [(@davidchanci)](http://twitter.com/davidchanci){:target="\_blank"} and photograpy in  [Flickr](https://www.flickr.com/davidchanci/){:target="\_blank"}

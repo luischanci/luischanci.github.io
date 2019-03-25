@@ -25,7 +25,8 @@ This page is a repository of resources: Programs and other documents.
 
 
 #### Stata
-Programs can be installed using `net install chks, from(https://luischanci.github.io/resources/stata/chks) replace`.
+Programs can be installed using\\
+ `net install mypoisson_ch, from(https://luischanci.github.io/resources/stata/mypoisson_ch) replace`.
 
 
 ### Documents
