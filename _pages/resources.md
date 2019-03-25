@@ -28,6 +28,7 @@ This page is a repository of resources: Programs and other documents.
 Programs can be installed using\\
  `net install mypoissonch, from(https://github.com/luischanci/luischanci.github.io/blob/master/_resources/_stata/mypoissonch) replace`.
 
+tr
 <a href="/resources/stata/mypoissonch.ado">Download File</a>
 
 
