@@ -26,7 +26,9 @@ This page is a repository of resources: Programs and other documents.
 
 #### Stata
 Programs can be installed using\\
- `net install mypoisson_ch, from(https://github.com/luischanci/luischanci.github.io/blob/master/_resources/_stata/mypoissonch) replace`.
+ `net install mypoissonch, from(https://github.com/luischanci/luischanci.github.io/blob/master/_resources/_stata/mypoissonch) replace`.
+
+<a href="/resources/stata/mypoissonch.ado">Download File</a>
 
 
 ### Documents

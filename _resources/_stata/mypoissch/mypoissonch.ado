@@ -9,7 +9,7 @@ syntax varlist (min=2) [if] [in]
 	marksample    touse
 	markout       `touse'
 	tempname       b V
-	
+
 	mata:   m_pois("`depvar'", "`regs'", "`touse'")
 	mat     `b' = r(beta)
 	mat     `V' = r(V)
@@ -19,6 +19,8 @@ syntax varlist (min=2) [if] [in]
 	ereturn post `b' `V', depname(`depvar') esample(`touse')
 	ereturn display
 end
+
+bcuse wage2
 
 version 14.2
 mata:
@@ -30,11 +32,11 @@ void m_pois(string scalar yname,
 	real vector Y, b
 	real matrix X, V
 	real scalar np
-	
+
 	st_view(Y,., tokens(yname), touse)
 	st_view(X,., tokens(inexognames), touse)
 	np = (cols(X) + 1)
-	
+
 S =	optimize_init()
 	optimize_init_evaluator(S, &lnf())
 	optimize_init_argument(S,1,Y)
@@ -45,7 +47,7 @@ V = optimize_result_V(S)
 	st_matrix("r(beta)", b)
 	st_matrix("r(V)", V)
 }
-	
+
 void lnf(todo, b, Y, X, cri, g, H)
 {
     Xb = (J(rows(X), 1, 1), X)*b'
