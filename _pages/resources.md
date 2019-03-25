@@ -30,7 +30,7 @@ Programs can be installed using\\
 
 trying to...
 
-<a href="https://github.com/luischanci/luischanci.github.io/blob/master/_resources/_stata/mypoissonch.ado">Download File</a>
+<a href="https://github.com/luischanci/luischanci.github.io/tree/master/_resources/_stata/mypoissch/mypoissonch.ado">Download File</a>
 
 
 ### Documents
