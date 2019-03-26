@@ -5,6 +5,10 @@ permalink: "/research/"
 order: 3
 ---
 
+**Orcid**            : [https://orcid.org/](https://orcid.org/0000-0002-6239-2156){:target="_blank"}\\
+**Google Scholar**   : [https://scholar.google.com/](https://scholar.google.com/citations?user=H3S8NIUAAAAJ&hl=es){:target="_blank"}
+
+-----
 ## Publications
 
 <div id="research">

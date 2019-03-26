@@ -5,4 +5,4 @@ permalink: "/cv/"
 order: 2
 ---
 
-<iframe src="https://www.dropbox.com/s/tiglcqgpqxvgdjg/CV_Chanci.pdf?dl=0" width="100%" height="800"></iframe>
+<iframe src='https://luischanci.github.io/assets/CV/CV_Chanci.pdf' width="100%" height="800"></iframe>

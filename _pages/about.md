@@ -7,7 +7,7 @@ order: 1
 
 I am a fourth-year Ph.D. student in Economics at the State University of New York at Binghamton. I also hold an appointment as professor of economics at UST-Chile.
 
-In this website you can find information related to my [CV](/CV), [teaching](/teaching/), [research](/research/), and other resources .
+In this website you can find information related to my [CV](/CV), [teaching](/teaching/), [research](/research/), and other resources.
 
 Feel free to contact me at <mailto:lchanci1@binghamton.edu>.
 

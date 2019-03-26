@@ -33,17 +33,19 @@ Textbooks: [Wooldridge](https://www.cengage.com/c/introductory-econometrics-a-mo
 $$V(k)=\max_{k'\in\Gamma(k)}\{F(k,k')+\beta V(k')\}$$
 
 #### 1. State University of New York at Binghamton, USA
-**1.1. Teaching Assistant (Ph.D. in Economics)** Instructor: [Florian Kuhn](http://www.floriankuhn.com/){:target="_blank"}
+**1.1. Instructor (undergraduate-level).** Expected in Summer 2019
+
+**1.2. Teaching Assistant (Ph.D. in Economics)** Instructor: [Florian Kuhn](http://www.floriankuhn.com/){:target="_blank"}
 - Advanced Macroeconomics 2, ECON-696 (Elective course). Spring 2016.
 - Macroeconomics, ECON-613 (Core). Fall 2016.
 
 
 #### 2. Universidad Santo Tomás, Chile
-**2.1. Instructor (undergrad-level).** Fall 2012, 2013, 2014, 2015.
+**2.1. Instructor (undergraduate-level).** Fall 2012, 2013, 2014, 2015.
 
 
 #### 3. Universidad Diego Portales, Chile
-**2.1. Instructor (undergrad-level).** 2010, 2011, 2012.
+**2.1. Instructor (undergraduate-level).** 2010, 2011, 2012.
 
 
 ------
