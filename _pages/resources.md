@@ -30,7 +30,7 @@ Programs can be installed using\\
 
 trying to...
 
-<a href="https://github.com/luischanci/mypoissonch">Download File</a>
+<a href="https://github.com/luischanci/mystatacodes/mypoissonch">Download File</a>
 
 
 ### Documents
