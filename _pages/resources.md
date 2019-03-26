@@ -25,8 +25,9 @@ This page is a repository of resources: Programs and other documents.
 
 
 #### Stata
-Programs can be installed using for instance,\\
- `net install mypoissonch, replace (from "https://github.com/luischanci/mystatacodes/raw/master")`
+> `mypoissonch`:
+  - This is my a simple program using mata for poisson regression. It is a test for posting material online using Github. To install from Stata,
+  - `net install mypoissonch, replace (from "https://github.com/luischanci/mystatacodes/raw/master")`
 
 Visit my Github repository for more info: <a href="https://github.com/luischanci/mystatacodes/tree/master/mypoissonch">Download File</a>
 
