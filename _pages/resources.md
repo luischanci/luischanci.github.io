@@ -10,26 +10,26 @@ This page is a repository of resources: Programs and other documents.
 -----
 ### Programs
 
+#### Stata: user-written programs
+- `chks`:
+  - Estimation of a non-linear index with sample selection. This is a work in progress for the paper: Index of Crime in Colombia, by Chancí, Kumbhakar, and Sandoval (2019).
+  - To install directly from Stata,
+    `net install chks, replace from ("https://github.com/luischanci/chks/raw/master/")`
+
+  - In case of any issue, it's also possible to manually install the programm. Download the material directly to you PC <a href="https://github.com/luischanci/chks/zipball/master">(download here)</a>, unzip, and locate all the files into the Stata ado path (for instance, `C:\ado\personal\m\`).
+
+
+- `mypoissonch`:
+  - A simple program using mata for Poisson Regression. It's an introductory example for advanced programming in Stata.
+  - To install directly from Stata,
+
+    `net install mypoissonch, replace from ("https://github.com/luischanci/mypoissonch/raw/master/")`
+
+  - In case of any issue, it's also possible to manually install the programm. Download the material directly to you PC <a href="https://github.com/luischanci/mypoissonch/zipball/master">(download here)</a>, unzip, and locate all the files into the Stata ado path (for instance, `C:\ado\personal\m\`).
+
 #### R
-<!--- (Estoy trabajando en esta parte: crear lin similar a publicaciones... postear contenido de clases) -->
-
-<div id="resources">
-<ul class="ul-resources">
-  {% for item in site.resources %}{% if item.software == 'r' %}
-    <li>
-    {{ item.topic }}
-    </li>
-  {% endif %}{% endfor %}
-</ul>
-</div>
-
-
-#### Stata
-> `mypoissonch`:
-  - This is a simple program using mata for poisson regressions. It basically represents a kind of test for posting material using Github. To install from Stata,
-  - `net install mypoissonch, replace from ("https://github.com/luischanci/mystatacodes/raw/master/mypoissonch")`
-  - In case of any issue, it's also possible to download the main ado file and other related material (e.g. the `help` file) directly in a zip file. Then, it is necessary to locate those files into you personal stata ado path (for instance, `C:\ado\personal\m\`): <a href="https://github.com/luischanci/mystatacodes/raw/master/mypoissonch/zipball/master">Download Files</a>
-
+  <!--- (Estoy trabajando en esta parte: crear lin similar a publicaciones... postear contenido de clases) -->
+  In progress.
 
 ### Documents
 
