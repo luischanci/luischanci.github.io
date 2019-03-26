@@ -26,11 +26,11 @@ This page is a repository of resources: Programs and other documents.
 
 #### Stata
 Programs can be installed using\\
- `net install mypoissonch, replace (from "https://github.com/luischanci/mystatacodes/mypoissonch")`
+ `net install mypoissonch, replace (from "https://github.com/luischanci/mystatacodes/tree/master/mypoissonch")`
 
 trying to...
 
-<a href="https://github.com/luischanci/mystatacodes/mypoissonch">Download File</a>
+<a href="https://github.com/luischanci/mystatacodes/tree/master/mypoissonch">Download File</a>
 
 
 ### Documents
