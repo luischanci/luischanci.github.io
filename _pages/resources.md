@@ -26,7 +26,7 @@ This page is a repository of resources: Programs and other documents.
 
 #### Stata
 Programs can be installed using\\
- `https://github.com/luischanci/mystatacodes/mypoissonch) replace`.
+ `net install mypoissonch, replace (from "https://github.com/luischanci/mystatacodes/mypoissonch")`
 
 trying to...
 
