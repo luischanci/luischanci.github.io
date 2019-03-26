@@ -11,7 +11,7 @@ This page is a repository of resources: Programs and Documents.
 ### Programs
 
 #### Stata: user-written programs
-1. __**chks**__
+1. *_chks_*
   - Estimation of a non-linear index with sample selection. This is a work in progress for the paper: Index of Crime in Colombia, by Chancí, Kumbhakar, and Sandoval (2019). It's not finished yet. [(more information)](https://luischanci.github.io/chks/){:target="_blank"}
     - To install directly from Stata,
 
