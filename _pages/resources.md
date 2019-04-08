@@ -34,18 +34,23 @@ This page is a repository of resources: Programs and Documents.
 
 #### Matlab
 
+...
+
 #### Julia
+
+...
 
 #### Phyton
 
+...
 
 ### Documents
 
-In progress.
+...
 
-### Lectures
+### Lecture Notes
 
-In progress.
+...
 
 
 <!--- ver luego:
