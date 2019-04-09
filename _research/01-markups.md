@@ -3,6 +3,5 @@ layout   : research
 title    : Electricity Prices, Manufacturing Firms' Markups, and Productivity
 pubstatus: mimeo
 pubdate  : 2019
-order    : 1
 abstract : "In this paper I investigate how firms respond to electricity price shocks. Specifically, I employ a natural experiment, the 2004 Argentine energy crisis, and also variations in national energy prices interacted with shares of different fuels used at industry-level to study how electricity price shocks affect markups and productivity in Chilean manufacturing firms. In order to recover markups and productivity, I propose an extension to the literature on production function estimation that uses a proxy-variable approach, by adding additional factors into the productivity process. Preliminary results show that a 1% increase in electricity prices is related to a 1.6% decrease in markups, and 0.005% decrease in productivity. In other words, a 50% decrease in imports of Natural Gas, used to produce electricity in Chile, could be related with a 0.05% decrease in productivity and 12% decrease in markups. "
 ---
