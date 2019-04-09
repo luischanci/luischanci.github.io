@@ -18,7 +18,7 @@ Notes:
 
 1.  I used to use [Google-sites](https://sites.google.com/site/davidchanci){:target="\_blank"}, but I am starting this new project using Github. Thus, this website is still under construction.
 
-2.  Full name and last name, two words each: __**Luis David**__ __**Chancí Arango**__.
+2.  Full name and last name, two words each: __Luis David__ __Chancí Arango__.
 
 3.  Social media: tips in #Econtwitter in twitter [(@davidchanci)](http://twitter.com/davidchanci){:target="\_blank"} and photograpy in  [Flickr](https://www.flickr.com/davidchanci/){:target="\_blank"}
 
