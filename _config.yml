@@ -8,11 +8,11 @@ description            : &description "Forth-year Ph.D. student in Economics."
 url                    : "https://luischanci.github.io"
 repository             : "luischanci/luischanci.github.io"
 avatar                 : "/assets/images/luischanci.jpg"
+email                  : "lchanci1@binghamton.edu"
 
 # Site Author
 author:
   name             : "Chancí"
-  email            : "lchanci1@binghamton.edu"
   avatar           : /assets/images/luischanci.jpg
   favicon          : /assets/images/logo.png
   twitter_handler  : "davidchanci"
