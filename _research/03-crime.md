@@ -10,4 +10,4 @@ order    : 3
 abstract : "This is a work in progress"
 ---
 
-[Visit](luischanci.github.io/chks)
+See the user-written [Stata command chks](luischanci.github.io/chks)
