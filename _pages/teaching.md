@@ -39,10 +39,14 @@ $$V(k)=\max_{k'\in\Gamma(k)}\{F(k,k')+\beta V(k')\}$$
 1. **Instructor** Principles of Macroeconomics, ECON-162, undergraduate-level. Expected, Summer 2019.
 
 2. **Teaching Assistant**.
+
     - Instructor: [Florian Kuhn](http://www.floriankuhn.com/){:target="_blank"}
+
         - Advanced Macroeconomics II, ECON-696, Ph.D. elective course. Spring 2016.
         - Macroeconomics I, ECON-613, Ph.D. core. Fall 2016.
+
     - Instructor: [Christopher L. Hanes](https://www.binghamton.edu/economics/people/tenured-and-tenure-track-faculty/hanes.html){:target="_blank"}
+
         - Macroeconomics II, ECON-613, Ph.D. core.
 
 ##### Universidad Santo Tomás, Chile
