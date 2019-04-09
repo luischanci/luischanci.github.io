@@ -4,7 +4,7 @@ title                  : "Luis Chancí"
 title_separator        : "-"
 name                   : &name "Luis Chancí"
 job_title              : "Research Economist"
-description            : &description "I am a fourth-year Ph.D. student in the Department of Economics at the State University of New York at Binghamton. I also hold an appointment as professor of economics at the Department of Economics and Business at UST-Chile."
+description            : &description "Forth-year Ph.D. student in Economics."
 url                    : "https://luischanci.github.io"
 repository             : "luischanci/luischanci.github.io"
 avatar                 : "/assets/images/luischanci.jpg"
@@ -26,7 +26,7 @@ author:
 social_networks:
 -  { name: facebook, url: '' }
 -  { name: twitter, url: 'http://twitter.com/davidchanci' }
--  { name: instagram, url: 'https://www.instagram.com/davidchanci/' }
+-  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: '' }
 -  { name: skype, url: '' }
