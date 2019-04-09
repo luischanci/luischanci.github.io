@@ -13,6 +13,7 @@ email                  : "lchanci1@binghamton.edu"
 # Site Author
 author:
   name             : "Chancí"
+  email            : "lchanci1@binghamton.edu"
   avatar           : /assets/images/luischanci.jpg
   favicon          : /assets/images/logo.png
   twitter_handler  : "davidchanci"
@@ -24,13 +25,14 @@ author:
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: '' }
+-  { name: github, url: 'https://github.com/luischanci' }
 -  { name: twitter, url: 'http://twitter.com/davidchanci' }
+-  { name: flickr, url: 'https://www.flickr.com/davidchanci/' }
+-  { name: facebook, url: '' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: '' }
 -  { name: skype, url: '' }
--  { name: github, url: 'https://github.com/luischanci' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
@@ -41,7 +43,6 @@ social_networks:
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
--  { name: flickr, url: 'https://www.flickr.com/davidchanci/' }
 -  { name: spotify, url: '' }
 -  { name: steam, url: '' }
 -  { name: wordpress, url: '' }
@@ -51,13 +52,13 @@ social_networks:
 -  { name: applemusic, url: '' }
 
 # Modules Settings
-show_categories: 1
-show_tags: 1
-show_email: 1
-show_rss: 0
-show_comments: 0
-show_menu: 1
-fixed_sidebar: 1
+show_categories : 1
+show_tags       : 1
+show_email      : 1
+show_rss        : 0
+show_comments   : 1
+show_menu       : 1
+fixed_sidebar   : 1
 
 # Defaults
 defaults:

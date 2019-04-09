@@ -45,13 +45,14 @@
                 <a href="https://twitter.com/davidchanci"><i class="fab fa-twitter fa-stack-1x"></i></a>
             </span>
         </li>
-        <!-- Instagram -->
+        <!-- Instagram
         <li>
             <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <a href="https://www.instagram.com/davidchanci/"><i class="fab fa-instagram fa-stack-1x"></i></a>
             </span>
         </li>
+        -->
         <!-- RSS -->
         {% if site.show_rss == 1 %}
         <li>
@@ -71,7 +72,16 @@
         </li>
         {% endif %}
 
-        <!-- {% for social in site.social_networks %}{% if social.url != '' %}<li><a href="{{social.url}}"><svg title="{{social.name}}" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl | prepend: site.url }}/assets/svg/social-icons.svg#{{social.name}}-icon"></use></svg></a></li>{% endif %}{% endfor %} -->
-
+        <!--
+        {% for social in site.social_networks %}{% if social.url != '' %}
+        <li>
+            <a href="{{social.url}}"><svg title="{{social.name}}" width="16" height="16">
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl | prepend: site.url }}/assets/svg/social-icons.svg#{{social.name}}-icon">
+            </use>
+            </svg>
+            </a>
+        </li>
+        {% endif %}{% endfor %}
+        -->
     </ul>
 </aside>
