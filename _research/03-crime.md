@@ -1,9 +1,11 @@
 ---
 layout   : research
 title    : "Index of Crime"
-coauthors: Subal Kumbhakar, Luis Sandoval
+permalink: /research/crime
+date     : 2018-12-01
 pubstatus: mimeo
-pubdate  : 2019
+coauthors: Subal Kumbhakar, Luis Sandoval
+pubdate  : 2018
 order    : 3
 abstract : "This is a work in progress"
 ---
