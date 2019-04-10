@@ -1,9 +1,19 @@
-Subal C. Kumbhakar:
+Subal Kumbhakar:
   name        : "Subal C. Kumbhakar"
-  uri         : "http://bingweb.binghamton.edu/~kkar/"
+  webpage     : "http://bingweb.binghamton.edu/~kkar/"
   email       : "kkar@binghamton.edu"
   bio         : " "
 
 Florian Kuhn:
   name        : "Florian Kuhn"
-  webpage: 'http://www.floriankuhn.com/'
+  webpage     : 'http://www.floriankuhn.com/'
+
+Luis Sandoval:
+  name        : "Luis Sandoval"
+  email       : "luis.sandoval@unimilitar.edu.co"
+  bio         : " "
+
+Manuel Agosin:
+  name        : "Manuel Agosin"
+  email       : "managosin@fen.uchile.cl"
+  webpage     : 'http://econ.uchile.cl/es/academico/managosin'
