@@ -18,7 +18,7 @@ Notes:
 
 1.  I used to use [Google-sites](https://sites.google.com/site/davidchanci){:target="\_blank"}, but I am starting this new project using Github. Thus, this website is still under construction (you may find grammar mistakes, not working links, etc).
 
-2.  Name and last name, two words each: <u><b>Luis David</b></u> + <u><b>Chancí Arango</u></b>.
+2.  Name and last name, two words each: <u><b>Luis David</b></u> + <u><b>Chancí Arango</b></u>.
 
 3.  Social media: twitter [(@davidchanci)](http://twitter.com/davidchanci){:target="\_blank"} (#Econtwitter is interesting); photograpy in  [Flickr](https://www.flickr.com/davidchanci/){:target="\_blank"}
 
