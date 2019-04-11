@@ -20,6 +20,6 @@ Notes:
 
 2.  Name and last name, two words each: <u><b>Luis David</b></u>  <u><b>Chancí Arango</u></b>.
 
-3.  Social media: tips in #Econtwitter in twitter [(@davidchanci)](http://twitter.com/davidchanci){:target="\_blank"} and photograpy in  [Flickr](https://www.flickr.com/davidchanci/){:target="\_blank"}
+3.  Social media: twitter [(@davidchanci)](http://twitter.com/davidchanci){:target="\_blank"} (#Econtwitter is interesting); photograpy in  [Flickr](https://www.flickr.com/davidchanci/){:target="\_blank"}
 
-4.  Acknowledgement: I maintain this page, but it was generated thanks to [GitHub Pages](https://pages.github.com/).
+4.  Acknowledgement: I maintain this page, but it was generated thanks to [GitHub Pages](https://pages.github.com/), powered by Jekyll.
