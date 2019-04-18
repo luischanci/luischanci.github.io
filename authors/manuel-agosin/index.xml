@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Agosin on Luis Chancí</title>
+    <link>http://luischanci.ithub.io/authors/manuel-agosin/</link>
+    <description>Recent content in Manuel Agosin on Luis Chancí</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://luischanci.ithub.io/authors/manuel-agosin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Export Diversification Dynamics in Latin America</title>
+      <link>http://luischanci.ithub.io/publication/journal-article/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://luischanci.ithub.io/publication/journal-article/</guid>
+      <description>In this chapter, we construct a set of export diversification measures in order to give a detailed view of export diversification dynamics in Latin America.</description>
+    </item>
+    
+  </channel>
+</rss>

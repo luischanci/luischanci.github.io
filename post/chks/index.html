@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.2.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Luis Chancí">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="User-written Stata command to estimate a Nonlinear Index, or a Zero Stochastic Frontier Model.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://luischanci.ithub.io/post/chks/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', '102016860', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="http://luischanci.ithub.io/post/chks/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@davidchanci">
+  <meta property="twitter:creator" content="@davidchanci">
+  
+  <meta property="og:site_name" content="Luis Chancí">
+  <meta property="og:url" content="http://luischanci.ithub.io/post/chks/">
+  <meta property="og:title" content="chks | Luis Chancí">
+  <meta property="og:description" content="User-written Stata command to estimate a Nonlinear Index, or a Zero Stochastic Frontier Model."><meta property="og:image" content="http://luischanci.ithub.io/post/chks/featured.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2019-02-20T00:00:00-05:00">
+  
+  <meta property="article:modified_time" content="2019-03-17T00:00:00-04:00">
+  
+
+  
+
+  
+
+  <title>chks | Luis Chancí</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/BU.jpg" alt="Luis Chancí"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/post/cv/">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#posts">
+            
+            <span>Resources</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">chks</h1>
+
+  
+  <p class="page-subtitle">User-written Stata command. Estimation of a non-linear index under sample selection. This is a code is a beta version constructed for the working paper: Chancí, Kumbhakar, and Sandoval, 2019.</p>
+  
+
+  
+    
+
+
+
+<meta content="2019-02-20 00:00:00 -0500 EST" itemprop="datePublished">
+<meta content="2019-03-17 00:00:00 -0400 EDT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      
+        <a href="/authors/admin/">Luis Chancí</a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    <time>Mar 17, 2019</time>
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 min read
+  </span>
+  
+
+  
+  
+
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=chks&amp;url=http%3a%2f%2fluischanci.ithub.io%2fpost%2fchks%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fluischanci.ithub.io%2fpost%2fchks%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fluischanci.ithub.io%2fpost%2fchks%2f&amp;title=chks"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fluischanci.ithub.io%2fpost%2fchks%2f&amp;title=chks"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=chks&amp;body=http%3a%2f%2fluischanci.ithub.io%2fpost%2fchks%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h2 id="getting-started">Getting Started</h2>
+
+<ol>
+<li><p><strong>Install.</strong> You can choose from one of the following four methods to install:</p>
+
+<ul>
+<li><p>From the Stata command window:</p>
+
+<p><code>net install chks, from(https://luischanci.github.io/chks/) replace</code></p></li>
+
+<li><p>Manual installation: <a href="https://github.com/luischanci/chks/zipball/master">Download</a>, unzip, and locate all the files into the Stata ado folder (for instance, locate the unzipped ado and other files into <code>C:\ado\personal\m\</code>).</p></li>
+</ul></li>
+
+<li><p><strong>Syntaxis.</strong></p>
+
+<ul>
+<li><p>The general syntaxis is,</p>
+
+<p><code>chks depvariable xregressors, indx(indexvariables) type() estimation() eoption()</code></p></li>
+
+<li><p>where,</p>
+
+<p><code>indx()</code>: contains the varlist that forms the index, excluding one variable (Y1). indx() could be empty, which means it is a linear model rather than an idex.</p>
+
+<p><code>type()</code>: is the type of nonlinear index. There are two possibilities: CES <code>type(ces)</code> and Cobb-Douglas <code>type(cd)</code>.</p>
+
+<p><code>estimation()</code>: is the estimation method: NLS <code>estimation(nls)</code>, Stochastic Frontier <code>estimation(sf)</code>, or Zero-Stochastic Frontier <code>estimation(zsf)</code>.</p>
+
+<p><code>eoption()</code>: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation <code>eoption(ml)</code> or Expectation-Maximization Algorithm <code>eoption(em)</code>. EM is the default option.</p></li>
+</ul></li>
+</ol>
+
+<p>$$\,$$</p>
+
+<h2 id="model-specification">Model Specification</h2>
+
+<p>The general model is one in which a non-linear index $\eta$ is a function of a vector of explanatory variables $x_{i}$ and a residual component $\epsilon$,</p>
+
+<p>$$
+log(\eta)_i=x_i\beta&rsquo;+\epsilon_i
+$$</p>
+
+<p>here, for instance, there are three variables that form the index $\eta$ (it could be $M$ variables):</p>
+
+<p>$$
+\eta=\left(\sum_{m=1}^3{\delta_mY_m^\rho}\right)^{1/\rho}
+$$</p>
+
+<p>thus, the equation to estimate is:</p>
+
+<p>$$
+log(Y_1)_i=-(1/\rho)*log\left(1+\sum_r^{M-1}{\delta_r (C_r^{\rho}-1)}\right)+x_i\beta&rsquo;+\epsilon_i
+$$</p>
+
+<p>with, $C_r=(Y_m/Y_1)$, and $r\neq1$.</p>
+
+<p>$$\,$$</p>
+
+<h2 id="using-the-code">Using the code.</h2>
+
+<p>i. Estimation NLS,</p>
+
+<p><code>chks Y1 x1 x2 ... xk, idx(Y2 Y3) t(ces) es(nls)</code></p>
+
+<p>ii. On the other hand, if the residual is such that $\epsilon_i=v_i-u_i$ with, $v_i\sim\mathcal{N}(0,\sigma^2_v)$  and $u_i\sim\mathcal{N}^+(0,\sigma^2_u)$, which is similar to a Nonlinear Stochastic Frontier Model, the command for estimation is:</p>
+
+<p><code>chks Y1 x1 x2 ... xk, idx(Y2 Y3) t(ces) es(sf)</code></p>
+
+<p>iii. Finally, if additionally to (ii), there is a probability that some $u_i=0$ (see for instance, Kumbhakar, Parmeter and Tsionas, 2013, <strong>&ldquo;A zero inefficiency stochastic frontier model&rdquo;</strong>, in <em>Journal of Econometrics</em> , 172(1), 66-76), the command would be:</p>
+
+<p><code>chks Y1 x1 x2 ...xk, idx(Y2 Y3) t(ces) es(zsf)</code></p>
+
+<p>In this case there are two additional options: Maximum Likelihood Extimation (add <code>eo(ml)</code>) or Expectation-Maximization Algorithm (add <code>eo(em)</code>).</p>
+
+<p>In general, other models or options are: Cobb-Douglas index and linear functions. For instance, a version of a linear Zero-Inefficiency Stochastic Frontier model would be:</p>
+
+<p>$$y_i=x_i\beta&rsquo;+\epsilon_i$$</p>
+
+<p>with $\epsilon_i=v_i-u_i$, and $v_i\sim\mathcal{N}(0,\sigma^2_v)$ and $u_i\sim\mathcal{N}^+(0,\sigma^2_u)$. Thus, in this case, the command would be:</p>
+
+<p><code>chks y1 x1 x2, es(zsf)</code></p>
+
+<p>Furthermore, in any specification is also possible to report the robust standard errors (add <code>robust</code>) or omit the constant term (add <code>nocons</code>).</p>
+
+<p>$$\,$$</p>
+
+<h2 id="examples">Examples.</h2>
+
+<ul>
+<li><p><strong>Example 1: A Linear Z-SF.</strong></p>
+
+<p>Data (simulation). To illustrate the use of the command, I am going to use first a simulation proposed by Diego Restrepo (of course, any mistake would be my responsability).</p>
+
+<pre><code>clear all
+gen x = rnormal()/10
+gen v = rnormal()/10
+gen z = rnormal()
+gentrun double u, left(0)     /* Need module GENTRUN */
+replace u = u/10              /* u ~ Truncated-left N(0,0.1)*/
+replace u = 0 if _n &gt; _N-_N/2 /* For a  p=50%, u=0, no inefficiency*/
+gen       e = v + u
+gen       y = 1 + x + e
+</code></pre>
+
+<p>Command:</p>
+
+<p><code>chks y x, es(zsf)</code></p>
+
+<p>or</p>
+
+<p><code>chks y x, es(zsf) eo(ml)</code></p>
+
+<p>Results using EM-algorithm:</p>
+
+<pre><code>. chks y x, es(zsf)
+Zero Stochastic Frontier for linear models
+(ZSF, linear model)
+
+Iteration 5:   f(p) =  150.04816
+Iteration 6:   f(p) =  150.04816
+(Zero) Stochastic Frontier, linear model. Estimation EM-Algorithm.
+-----------------------------------------------------------------------------------
+               yD |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+------------------+----------------------------------------------------------------
+               xD |    1.02164   .0517391    19.75   0.000     .9202334    1.123047
+            _cons |   1.057753   .0055784   189.61   0.000      1.04682    1.068687
+        lnsigma_u |   -3.71969   .6994031    -5.32   0.000    -5.090494   -2.348885
+        lnsigma_v |  -2.166826   .0317456   -68.26   0.000    -2.229046   -2.104606
+logit_probability |   1.627449   .1207253    13.48   0.000     1.390832    1.864066
+-----------------------------------------------------------------------------------
+</code></pre>
+
+<p>Results using MLE:</p>
+
+<pre><code>. chks y x, es(zsf) eo(ml)
+Zero Stochastic Frontier for linear models
+(ZSF, linear model)
+
+Iteration 6:   f(p) =  375.09283
+Iteration 7:   f(p) =  375.09283
+(Zero) Stochastic Frontier, linear model. M.L.E.
+-----------------------------------------------------------------------------------
+               yD |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+------------------+----------------------------------------------------------------
+               xD |     1.0212   .0515218    19.82   0.000     .9202194    1.122181
+            _cons |   1.036664   .0175377    59.11   0.000     1.002291    1.071037
+        lnsigma_u |  -2.115596   .3437051    -6.16   0.000    -2.789246   -1.441947
+        lnsigma_v |  -2.263115   .0683824   -33.09   0.000    -2.397142   -2.129088
+logit_probability |   1.475334   1.507923     0.98   0.328    -1.480141    4.430808
+-----------------------------------------------------------------------------------
+</code></pre>
+
+<p>thus, the estimated probability would be: <code>di 1/(1+exp(-1.4))=0.8</code></p></li>
+</ul>
+
+<p>$$\,$$</p>
+
+<ul>
+<li><p><strong>Example 2: Non-linear index</strong>.</p>
+
+<p>Estimation using NLS</p>
+
+<pre><code>  use https://luischanci.github.io/chks/chksdata1, clear
+  chks Y1 x1 x2, indx(Y2 Y3) es(nls) t(ces) r
+
+  Iteration 16:  f(p) =  12.058803
+    -----------------------------------------------------------------------------------
+                  Y1 |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+    -----------+-----------------------------------------------------------------------
+                  x1 |   .0158278   .0006196    25.54   0.000     .0146134    .0170422
+                  x2 |   .0401204   .0008423    47.63   0.000     .0384695    .0417712
+                _cons|   2.894777   .0180462   160.41   0.000     2.859407    2.930146
+                  Y2 |    .225702    .012979    17.39   0.000     .2002636    .2511403
+                  Y3 |   .5136438   .0136537    37.62   0.000     .4868831    .5404046
+                 rho |   2.301384   .1146792    20.07   0.000     2.076617    2.526151
+    -----------------------------------------------------------------------------------
+</code></pre>
+
+<p>In this particular example, in which there is a nonlinear function without additional especifications in the residual component, similar results can be obtained using NLS in Stata:</p>
+
+<pre><code>  g  ly1 = ln(Y1)
+  g  ry2 = Y2/Y1
+  g  ry3 = Y3/Y1
+
+      nl (ly1 = -(1/{rho = 0.5})*ln( 1 +                    ///
+                          {delta2 = 0.3}*(ry2^{rho}-1) +  ///
+                          {delta3 = 0.3}*(ry3^{rho}-1) )  ///
+                          + ({b0}+{b1}*x1+{b2}*x2) ), r
+
+  Iteration 6:  residual SS =   12.0588
+  Iteration 7:  residual SS =   12.0588
+
+
+  Nonlinear regression                                Number of obs =      1,000
+                                                      R-squared     =     0.9839
+                                                      Adj R-squared =     0.9838
+                                                      Root MSE      =   .1101435
+                                                      Res. dev.     =  -1580.083
+
+    -----------------------------------------------------------------------------------
+                     |               Robust
+                 ly1 |      Coef.   Std. Err.      t    P&gt;|t|     [95% Conf. Interval]
+    -----------------------------------------------------------------------------------
+                /rho |   2.301383   .1085109    21.21   0.000     2.088447     2.51432
+             /delta2 |    .225702   .0124839    18.08   0.000     .2012041    .2501999
+             /delta3 |   .5136438   .0134125    38.30   0.000     .4873237    .5399639
+                 /b0 |   2.894777   .0180631   160.26   0.000      2.85933    2.930223
+                 /b1 |   .0158278   .0006212    25.48   0.000     .0146087    .0170469
+                 /b2 |   .0401204   .0008432    47.58   0.000     .0384657     .041775
+    -----------------------------------------------------------------------------------
+  Parameter b0 taken as constant term in model
+</code></pre></li>
+
+<li><p><strong>Example 3: Non-linear (Index) Stochastic Frontier</strong>.</p>
+
+<pre><code>  chks Y1 x1 x2, indx(Y2 Y3) es(sf) t(ces) r
+Iteration 34:  f(p) =  793.27611
+    -----------------------------------------------------------------------------------
+                Y1 |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+    -----------------------------------------------------------------------------------
+                x1 |   .0155817   .0006264    24.87   0.000      .014354    .0168095
+                x2 |   .0392952   .0009681    40.59   0.000     .0373978    .0411925
+             _cons |   2.993987   .0264685   113.11   0.000      2.94211    3.045865
+                Y2 |   .2249359   .0125398    17.94   0.000     .2003583    .2495134
+                Y3 |   .5125146   .0132849    38.58   0.000     .4864766    .5385526
+                rho|   2.296911   .1106526    20.76   0.000     2.080036    2.513786
+         lnsigma_u |  -2.206232   .1435049   -15.37   0.000    -2.487496   -1.924967
+         lnsigma_v |  -2.435302   .0812527   -29.97   0.000    -2.594555    -2.27605
+    ------------------------------------------------------------------------------
+</code></pre></li>
+
+<li><p><strong>Example 4: Non-linear (Index). Zero Stochastic Frontier</strong>.</p>
+
+<p><code>chks Y1 x1 x2, indx(Y2 Y3) t(ces) es(zsf) eo(em)</code></p></li>
+</ul>
+
+<pre><code>	------------------------------------------------------------------------------
+			Y1 |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+	------------------------------------------------------------------------------
+			x1 |   .0155953   .0005609    27.81   0.000      .014496    .0166946
+			x2 |   .0392709   .0007659    51.27   0.000     .0377697    .0407721
+		     _cons |   2.935441   .0167206   175.56   0.000     2.902669    2.968213
+	  		Y2 |   .2252023   .0124254    18.12   0.000     .2008489    .2495557
+	  		Y3 |   .5117927   .0132434    38.65   0.000     .4858362    .5377493
+	 		rho|   2.293806   .1025533    22.37   0.000     2.092805    2.494807
+		 lnsigma_u |  -2.299401   .0789157   -29.14   0.000    -2.454073   -2.144729
+		 lnsigma_v |  -2.340403   .0252419   -92.72   0.000    -2.389876    -2.29093
+  	logist_probability |   .5607503   .0657478     8.53   0.000     .4318871    .6896136
+	------------------------------------------------------------------------------
+  di 1/(1+exp(-.5607503))
+  0.63662613
+</code></pre>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/stata/">Stata</a>
+  
+</div>
+
+
+
+
+    
+      
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  
+  
+  <img class="portrait mr-3" src="/author/admin/avatar_hu9cb154b95470fb60266fbd34109da7dc_47316_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+  
+
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/authors/admin">Luis Chancí</a></h5>
+    <h6 class="card-subtitle">Fourth-year Ph.D. student in Economics</h6>
+    
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <a itemprop="sameAs" href="mailito:lchanci1@binghamton.edu" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://twitter.com/davidchanci" target="_blank" rel="noopener">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=H3S8NIUAAAAJ&amp;hl=es" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://github.com/davidchanci" target="_blank" rel="noopener">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="/resources/cv/" >
+          <i class="ai ai-cv"></i>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+    
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.9c79bd36ad5b530cf8825d78d951c339.js"></script>
+
+  </body>
+</html>
+
