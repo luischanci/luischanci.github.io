@@ -52,6 +52,10 @@ This page is a repository of resources: Programs and Documents.
 
 ...
 
+### Links
+
+- Real-world economics: [AEA materials to illustrate concepts in economics](https://www.aeaweb.org/resources/teachers/economics-concepts-examples-in-research){:target="_blank"}.
+
 
 <!--- ver luego:
 
