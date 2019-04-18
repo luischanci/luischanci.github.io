@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Luis Chancí</title>
-    <link>http://luischanci.ithub.io/authors/admin/</link>
+    <link>http://luischanci.ithub.io/luischanci/authors/admin/</link>
     <description>Recent content in admin on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://luischanci.ithub.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luischanci.ithub.io/luischanci/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>chks</title>
-      <link>http://luischanci.ithub.io/post/chks/</link>
+      <link>http://luischanci.ithub.io/luischanci/post/chks/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/post/chks/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/post/chks/</guid>
       <description>User-written Stata command to estimate a Nonlinear Index, or a Zero Stochastic Frontier Model.</description>
     </item>
     
     <item>
       <title>Energy Shocks, firms&#39; Productivity and Markups</title>
-      <link>http://luischanci.ithub.io/publication/conference-paper/</link>
+      <link>http://luischanci.ithub.io/luischanci/publication/conference-paper/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/publication/conference-paper/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/publication/conference-paper/</guid>
       <description>This paper attempts to study how firms productivity and markups respond to energy shocks.</description>
     </item>
     
     <item>
       <title>The Effects of Hiring Discrimination over the Business Cycle</title>
-      <link>http://luischanci.ithub.io/publication/preprint/</link>
+      <link>http://luischanci.ithub.io/luischanci/publication/preprint/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/publication/preprint/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/publication/preprint/</guid>
       <description>We show theoretically that hiring discrimination implies a higher volatility of labor market outcomes for the discriminated group in the context of a standard search-and-matching model with an urn-ball matching function.</description>
     </item>
     
     <item>
       <title>Export Diversification Dynamics in Latin America</title>
-      <link>http://luischanci.ithub.io/publication/journal-article/</link>
+      <link>http://luischanci.ithub.io/luischanci/publication/journal-article/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.ithub.io/publication/journal-article/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/publication/journal-article/</guid>
       <description>In this chapter, we construct a set of export diversification measures in order to give a detailed view of export diversification dynamics in Latin America.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://luischanci.ithub.io/author/admin/</link>
+      <link>http://luischanci.ithub.io/luischanci/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://luischanci.ithub.io/author/admin/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/author/admin/</guid>
       <description>I am a fourth-year Ph.D. student in Economics at the State University of New York at Binghamton. I also hold an appointment as professor of economics at U.S.T.-Chile. My research interests are in Macroeconomics, Econometrics, and Industrial Organization. This semester I am teaching Introduction to Econometrics at Binghamton University and working on my thesis.
 In this website you can find information related to teaching, research, resources, such as user-written econometric packages, and my CV.</description>
     </item>

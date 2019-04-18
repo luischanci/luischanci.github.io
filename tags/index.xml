@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Luis Chancí</title>
-    <link>http://luischanci.ithub.io/tags/</link>
+    <link>http://luischanci.ithub.io/luischanci/tags/</link>
     <description>Recent content in Tags on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://luischanci.ithub.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luischanci.ithub.io/luischanci/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stata</title>
-      <link>http://luischanci.ithub.io/tags/stata/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/stata/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/stata/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/stata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Business Cycle</title>
-      <link>http://luischanci.ithub.io/tags/business-cycle/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/business-cycle/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/business-cycle/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/business-cycle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search and Matching</title>
-      <link>http://luischanci.ithub.io/tags/search-and-matching/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/search-and-matching/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/search-and-matching/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/search-and-matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unemployment</title>
-      <link>http://luischanci.ithub.io/tags/unemployment/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/unemployment/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/unemployment/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/unemployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firms</title>
-      <link>http://luischanci.ithub.io/tags/firms/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/firms/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/firms/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/firms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markups</title>
-      <link>http://luischanci.ithub.io/tags/markups/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/markups/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/markups/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/markups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>productivity</title>
-      <link>http://luischanci.ithub.io/tags/productivity/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/productivity/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/productivity/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diversification</title>
-      <link>http://luischanci.ithub.io/tags/diversification/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/diversification/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/diversification/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/diversification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exports</title>
-      <link>http://luischanci.ithub.io/tags/exports/</link>
+      <link>http://luischanci.ithub.io/luischanci/tags/exports/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.ithub.io/tags/exports/</guid>
+      <guid>http://luischanci.ithub.io/luischanci/tags/exports/</guid>
       <description></description>
     </item>
     
