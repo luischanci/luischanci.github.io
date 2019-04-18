@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>firms on Luis Chancí</title>
-    <link>http://luischanci.ithub.io/luischanci/tags/firms/</link>
+    <link>http://luischanci.ithub.io/tags/firms/</link>
     <description>Recent content in firms on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://luischanci.ithub.io/luischanci/tags/firms/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luischanci.ithub.io/tags/firms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Energy Shocks, firms&#39; Productivity and Markups</title>
-      <link>http://luischanci.ithub.io/luischanci/publication/conference-paper/</link>
+      <title>Energy Shocks, Firms&#39; Productivity and Markups</title>
+      <link>http://luischanci.ithub.io/publication/conference-paper/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/publication/conference-paper/</guid>
-      <description>This paper attempts to study how firms productivity and markups respond to energy shocks.</description>
+      <guid>http://luischanci.ithub.io/publication/conference-paper/</guid>
+      <description>This paper studies how firms&amp;rsquo; outcomes (i.e., productivity and markups) respond to cost shocks (electricity prices).</description>
     </item>
     
   </channel>

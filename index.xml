@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luis Chancí</title>
-    <link>http://luischanci.ithub.io/luischanci/</link>
+    <link>http://luischanci.ithub.io/</link>
     <description>Recent content on Luis Chancí</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="http://luischanci.ithub.io/luischanci/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://luischanci.ithub.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>chks</title>
-      <link>http://luischanci.ithub.io/luischanci/post/chks/</link>
+      <link>http://luischanci.ithub.io/post/chks/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/post/chks/</guid>
+      <guid>http://luischanci.ithub.io/post/chks/</guid>
       <description>
 
 &lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
@@ -276,10 +276,10 @@ Iteration 34:  f(p) =  793.27611
     
     <item>
       <title>Current course(s)</title>
-      <link>http://luischanci.ithub.io/luischanci/teaching/teachingnow/</link>
+      <link>http://luischanci.ithub.io/teaching/teachingnow/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/teaching/teachingnow/</guid>
+      <guid>http://luischanci.ithub.io/teaching/teachingnow/</guid>
       <description>
 
 &lt;h2 id=&#34;econometrics&#34;&gt;ECONOMETRICS&lt;/h2&gt;
@@ -290,10 +290,10 @@ Iteration 34:  f(p) =  793.27611
     
     <item>
       <title>Teaching Experience</title>
-      <link>http://luischanci.ithub.io/luischanci/teaching/teaching/</link>
+      <link>http://luischanci.ithub.io/teaching/teaching/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/teaching/teaching/</guid>
+      <guid>http://luischanci.ithub.io/teaching/teaching/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -307,7 +307,7 @@ Iteration 34:  f(p) =  793.27611
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Instructor.&lt;/strong&gt; &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;Introduction to Econometrics, ECON-466.&lt;/a&gt; Spring, 2019.&lt;br /&gt;
 Undergraduate-level. Textbooks: &lt;a href=&#34;https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107&#34; target=&#34;_blank&#34;&gt;Wooldridge&lt;/a&gt; and &lt;a href=&#34;https://www.pearson.com/us/higher-education/product/Stock-Introduction-to-Econometrics-3rd-Edition/9780138009007.html&#34; target=&#34;_blank&#34;&gt;Stock and Watson&lt;/a&gt;.&lt;br /&gt;
-&lt;a href=&#34;http://luischanci.ithub.io/luischanci/documents/Syllabus_ECON466_CHANCI.pdf&#34;&gt;Syllabus available here&lt;/a&gt;. Teaching Evaluations not available yet.&lt;/p&gt;&lt;/li&gt;
+&lt;a href=&#34;http://luischanci.ithub.io/documents/Syllabus_ECON466_CHANCI.pdf&#34;&gt;Syllabus available here&lt;/a&gt;. Teaching Evaluations not available yet.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Guest lecture.&lt;/strong&gt; &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;Econometrics, ECON-616&lt;/a&gt;, Ph.D. core. Spring 2018.&lt;/p&gt;&lt;/li&gt;
 
@@ -336,10 +336,10 @@ Ph.D. core (Spring 2018, Spring 2017) and undergraduate (Spring 2019).&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Instructor: &lt;a href=&#34;http://www.floriankuhn.com/&#34; target=&#34;_blank&#34;&gt;Florian Kuhn&lt;/a&gt;{:target=&amp;rdquo;_blank&amp;rdquo;}&lt;br /&gt;
+&lt;li&gt;Instructor: &lt;a href=&#34;http://www.floriankuhn.com/&#34; target=&#34;_blank&#34;&gt;Florian Kuhn&lt;/a&gt;&lt;br /&gt;
 Advanced Macroeconomics II, ECON-696, Ph.D. elective course. Spring 2016.&lt;br /&gt;
 Macroeconomics I, ECON-613, Ph.D. core. Fall 2016.&lt;/li&gt;
-&lt;li&gt;Instructor: &lt;a href=&#34;https://www.binghamton.edu/economics/people/tenured-and-tenure-track-faculty/hanes.html&#34; target=&#34;_blank&#34;&gt;Christopher L. Hanes&lt;/a&gt;{:target=&amp;rdquo;_blank&amp;rdquo;}&lt;br /&gt;
+&lt;li&gt;Instructor: &lt;a href=&#34;https://www.binghamton.edu/economics/people/tenured-and-tenure-track-faculty/hanes.html&#34; target=&#34;_blank&#34;&gt;Christopher L. Hanes&lt;/a&gt;&lt;br /&gt;
 Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -347,13 +347,13 @@ Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
 &lt;h5 id=&#34;universidad-santo-tomás-chile-1&#34;&gt;Universidad Santo Tomás, Chile&lt;/h5&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics, undergraduate-level. 2012 to 2015.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics, undergraduate-level. 2012 - 2015.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h5 id=&#34;universidad-diego-portales-chile&#34;&gt;Universidad Diego Portales, Chile&lt;/h5&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics I and II, undergraduate-level. 2010 to 2012.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics I and II, undergraduate-level. 2010 - 2012.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;hr /&gt;
@@ -366,18 +366,18 @@ Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Principles of Microeconomics, ECON-160, undergraduate-level. Fall-2017.
 
 &lt;ul&gt;
-&lt;li&gt;Textbook: &lt;a href=&#34;https://www.cengage.com/c/principles-of-microeconomics-8e-mankiw&#34; target=&#34;_blank&#34;&gt;Mankiw&lt;/a&gt;. Syllabus &lt;a href=&#34;http://luischanci.ithub.io/luischanci/documents/Syllabus_ECON160_CHANCI.pdf&#34;&gt;available here&lt;/a&gt;. Teaching evaluation &lt;a href=&#34;http://luischanci.ithub.io/luischanci/documents/Teaching_Evaluation_ECON160.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Textbook: &lt;a href=&#34;https://www.cengage.com/c/principles-of-microeconomics-8e-mankiw&#34; target=&#34;_blank&#34;&gt;Mankiw&lt;/a&gt;. Syllabus &lt;a href=&#34;http://luischanci.ithub.io/documents/Syllabus_ECON160_CHANCI.pdf&#34;&gt;available here&lt;/a&gt;. Teaching evaluation &lt;a href=&#34;http://luischanci.ithub.io/documents/Teaching_Evaluation_ECON160.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Energy Shocks, firms&#39; Productivity and Markups</title>
-      <link>http://luischanci.ithub.io/luischanci/publication/conference-paper/</link>
+      <title>Energy Shocks, Firms&#39; Productivity and Markups</title>
+      <link>http://luischanci.ithub.io/publication/conference-paper/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/publication/conference-paper/</guid>
+      <guid>http://luischanci.ithub.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
@@ -388,29 +388,29 @@ Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
     
     <item>
       <title>The Effects of Hiring Discrimination over the Business Cycle</title>
-      <link>http://luischanci.ithub.io/luischanci/publication/preprint/</link>
+      <link>http://luischanci.ithub.io/publication/preprint/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/publication/preprint/</guid>
+      <guid>http://luischanci.ithub.io/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>http://luischanci.ithub.io/luischanci/post/cv/</link>
+      <link>http://luischanci.ithub.io/post/cv/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/post/cv/</guid>
+      <guid>http://luischanci.ithub.io/post/cv/</guid>
       <description>&lt;iframe src=&#39;https://luischanci.github.io/documents/CV_Chanci.pdf&#39; width=&#34;100%&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Export Diversification Dynamics in Latin America</title>
-      <link>http://luischanci.ithub.io/luischanci/publication/journal-article/</link>
+      <link>http://luischanci.ithub.io/publication/journal-article/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/publication/journal-article/</guid>
+      <guid>http://luischanci.ithub.io/publication/journal-article/</guid>
       <description></description>
     </item>
     

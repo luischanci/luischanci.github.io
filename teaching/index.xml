@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Luis Chancí</title>
-    <link>http://luischanci.ithub.io/luischanci/teaching/</link>
+    <link>http://luischanci.ithub.io/teaching/</link>
     <description>Recent content in Teaching on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://luischanci.ithub.io/luischanci/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luischanci.ithub.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Current course(s)</title>
-      <link>http://luischanci.ithub.io/luischanci/teaching/teachingnow/</link>
+      <link>http://luischanci.ithub.io/teaching/teachingnow/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/teaching/teachingnow/</guid>
+      <guid>http://luischanci.ithub.io/teaching/teachingnow/</guid>
       <description>ECONOMETRICS Introduction to Econometrics, ECON-466. Spring, 2019.</description>
     </item>
     
     <item>
       <title>Teaching Experience</title>
-      <link>http://luischanci.ithub.io/luischanci/teaching/teaching/</link>
+      <link>http://luischanci.ithub.io/teaching/teaching/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://luischanci.ithub.io/luischanci/teaching/teaching/</guid>
+      <guid>http://luischanci.ithub.io/teaching/teaching/</guid>
       <description>ECONOMETRICS $$y_i=\beta_0+\beta_1x_1+\ldots+\beta_kx_k+u_i$$
 State University of New York at Binghamton, USA  Instructor. Introduction to Econometrics, ECON-466. Spring, 2019.
 Undergraduate-level. Textbooks: Wooldridge and Stock and Watson.
