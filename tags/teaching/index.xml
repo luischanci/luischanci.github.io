@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Current course</title>
-      <link>http://luischanci.ithub.io/teaching/teachingnow/</link>
+      <title>Recent or currently teaching</title>
+      <link>http://luischanci.ithub.io/teaching/recent/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/teaching/teachingnow/</guid>
-      <description>Econometrics at Binghamton University.</description>
+      <guid>http://luischanci.ithub.io/teaching/recent/</guid>
+      <description>ECON466, Intro to Econometrics at Binghamton University.</description>
     </item>
     
   </channel>

@@ -275,34 +275,43 @@ Iteration 34:  f(p) =  793.27611
     </item>
     
     <item>
-      <title>Current course</title>
-      <link>http://luischanci.ithub.io/teaching/teachingnow/</link>
+      <title>Recent or currently teaching</title>
+      <link>http://luischanci.ithub.io/teaching/recent/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/teaching/teachingnow/</guid>
+      <guid>http://luischanci.ithub.io/teaching/recent/</guid>
       <description>
 
-&lt;h2 id=&#34;econometrics&#34;&gt;ECONOMETRICS&lt;/h2&gt;
+&lt;h3 id=&#34;econometrics&#34;&gt;ECONOMETRICS&lt;/h3&gt;
 
-&lt;p&gt;Introduction to Econometrics, ECON-466. Spring, 2019.&lt;/p&gt;
+&lt;p&gt;Introduction to Econometrics, ECON-466, at Binghamton University. Spring, 2019.&lt;/p&gt;
 
-&lt;p&gt;&lt;br/&gt;
-Material:&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;material&#34;&gt;Material&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;MyCourses (or Blackboard)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt; &lt;a href=&#34;http://luischanci.ithub.io/presentations/ECON466/slides&#34;&gt;Slides for the final part (Intro to Causal Inference)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Final Part: &lt;a href=&#34;http://luischanci.ithub.io/presentations/ECON466/slides&#34;&gt;Slides Intro to Causal Inference&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;All the material is on &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;MyCourses (Blackboard)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://luischanci.ithub.io/documents/Syllabus_ECON466_CHANCI.pdf&#34;&gt;Syllabus&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Textbooks: &lt;a href=&#34;https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107&#34; target=&#34;_blank&#34;&gt;Wooldridge&lt;/a&gt; and &lt;a href=&#34;https://www.pearson.com/us/higher-education/product/Stock-Introduction-to-Econometrics-3rd-Edition/9780138009007.html&#34; target=&#34;_blank&#34;&gt;Stock and Watson&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Software: &lt;a href=&#34;http://www.stata.com&#34; target=&#34;_blank&#34;&gt;Stata&lt;/a&gt; and &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Teaching Experience</title>
-      <link>http://luischanci.ithub.io/teaching/teaching/</link>
+      <link>http://luischanci.ithub.io/teaching/experience/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://luischanci.ithub.io/teaching/teaching/</guid>
+      <guid>http://luischanci.ithub.io/teaching/experience/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -330,6 +339,8 @@ Ph.D. core (Spring 2018, Spring 2017) and undergraduate (Spring 2019).&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Econometrics, ICO-084, undergraduate-level. 2012 to 2015.&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -364,6 +375,8 @@ Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics I and II, undergraduate-level. 2010 - 2012.&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 

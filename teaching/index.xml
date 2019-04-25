@@ -12,28 +12,21 @@
     
     
     <item>
-      <title>Current course</title>
-      <link>http://luischanci.ithub.io/teaching/teachingnow/</link>
+      <title>Recent or currently teaching</title>
+      <link>http://luischanci.ithub.io/teaching/recent/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.ithub.io/teaching/teachingnow/</guid>
-      <description>Econometrics at Binghamton University.</description>
+      <guid>http://luischanci.ithub.io/teaching/recent/</guid>
+      <description>ECON466, Intro to Econometrics at Binghamton University.</description>
     </item>
     
     <item>
       <title>Teaching Experience</title>
-      <link>http://luischanci.ithub.io/teaching/teaching/</link>
+      <link>http://luischanci.ithub.io/teaching/experience/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://luischanci.ithub.io/teaching/teaching/</guid>
-      <description>ECONOMETRICS $$y_i=\beta_0+\beta_1x_1+\ldots+\beta_kx_k+u_i$$
-State University of New York at Binghamton, USA  Instructor. Introduction to Econometrics, ECON-466. Spring, 2019.
-Undergraduate-level. Textbooks: Wooldridge and Stock and Watson.
-Syllabus available here. Teaching Evaluations not available yet.
- Guest lecture. Econometrics, ECON-616, Ph.D. core. Spring 2018.
- Teaching Assistant. Econometrics.
-Instructor: Subal Kumbhakar. Ph.D. core (Spring 2018, Spring 2017) and undergraduate (Spring 2019).
-  Universidad Santo Tomás, Chile  Instructor Econometrics, ICO-084, undergraduate-level.</description>
+      <guid>http://luischanci.ithub.io/teaching/experience/</guid>
+      <description>All Course (Syllabus, Teaching Evaluations, and others).</description>
     </item>
     
   </channel>
