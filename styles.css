@@ -36,7 +36,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: inherit;
   color: inherit;
   background-color: #fff;
@@ -1389,7 +1389,7 @@ article .article-metadata {
 /*************************************************
  *  Accomplishments
  **************************************************/
- 
+
 .card.course {
   margin-bottom: 1rem; /* More compact spacing than Experience widget as typically more items here. */
 }
