@@ -34,21 +34,21 @@
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Syntaxis.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The general syntaxis is,&lt;/p&gt;
+&lt;p&gt;The general syntaxis is,&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;chks depvariable xregressors, indx(indexvariables) type() estimation() eoption()&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;pre&gt;&lt;code&gt;`chks depvariable xregressors, indx(indexvariables) type() estimation() eoption()`
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;li&gt;&lt;p&gt;where,&lt;/p&gt;
+&lt;p&gt;where,&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;indx()&lt;/code&gt;. &lt;em&gt;varlist&lt;/em&gt; for the index. &lt;code&gt;indx()&lt;/code&gt; could be empty, which means that the model is linear rather than a nonlinear idex.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;`indx()`. _varlist_ for the index. `indx()` could be empty, which means that the model is linear rather than a nonlinear index.
 
-&lt;p&gt;&lt;code&gt;type()&lt;/code&gt;. Functional form for the nonlinear index. There are two types: CES &lt;code&gt;type(ces)&lt;/code&gt; and Cobb-Douglas &lt;code&gt;type(cd)&lt;/code&gt;.&lt;/p&gt;
+`type()`. Functional form for the nonlinear index. There are two types: CES `type(ces)` and Cobb-Douglas `type(cd)`.
 
-&lt;p&gt;&lt;code&gt;estimation()&lt;/code&gt;. Estimation method: NLS &lt;code&gt;estimation(nls)&lt;/code&gt;, Stochastic Frontier &lt;code&gt;estimation(sf)&lt;/code&gt;, or Zero-Stochastic Frontier &lt;code&gt;estimation(zsf)&lt;/code&gt;.&lt;/p&gt;
+`estimation()`. Estimation method: NLS `estimation(nls)`, Stochastic Frontier `estimation(sf)`, or Zero-Stochastic Frontier `estimation(zsf)`.
 
-&lt;p&gt;&lt;code&gt;eoption()&lt;/code&gt;: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation &lt;code&gt;eoption(ml)&lt;/code&gt; or Expectation-Maximization Algorithm &lt;code&gt;eoption(em)&lt;/code&gt;. EM is the default option.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+`eoption()`: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation `eoption(ml)` or Expectation-Maximization Algorithm `eoption(em)`. EM is the default option.
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;$$\,$$&lt;/p&gt;
@@ -75,7 +75,7 @@ $$&lt;/p&gt;
 log(Y_1)_i=-(1/\rho)*log\left(1+\sum_r^{M-1}{\delta_r (C_r^{\rho}-1)}\right)+x_i\beta&amp;rsquo;+\epsilon_i
 $$&lt;/p&gt;
 
-&lt;p&gt;with, $C_r=(Y_m/Y_1)$, and $r\neq1$.&lt;/p&gt;
+&lt;p&gt;with, $C_r=(Y_r/Y_1)$, and $r\neq1$.&lt;/p&gt;
 
 &lt;p&gt;$$\,$$&lt;/p&gt;
 
@@ -84,7 +84,9 @@ $$&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Estimation NLS. Let&amp;rsquo;s say that $M=3$ and there are $k$ regressors,&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;chks Y1 x1 x2 ... xk, idx(Y2 Y3) t(ces) es(nls)&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;code&gt;chks Y1 x1 x2 ... xk, idx(Y2 Y3) t(ces) es(nls)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Notes: If &lt;code&gt;idx()&lt;/code&gt; is nonempty, variables &lt;code&gt;Y1,...,Ym&lt;/code&gt; should be in levels.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;On the other hand, if the residual is such that $\epsilon_i=v_i-u_i$ with, $v_i\sim\mathcal{N}(0,\sigma^2_v)$  and $u_i\sim\mathcal{N}^+(0,\sigma^2_u)$, which is bascally a &lt;strong&gt;Nonlinear Stochastic Frontier Model&lt;/strong&gt;, the command for estimation would be:&lt;/p&gt;
 
