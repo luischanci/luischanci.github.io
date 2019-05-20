@@ -493,19 +493,19 @@
 
 <p>The general syntaxis is,</p>
 
-<pre><code>`chks depvariable xregressors, indx(indexvariables) type() estimation() eoption()`
-</code></pre>
+<p><code>chks depvariable xregressors, indx(indexvariables) type() estimation() eoption()</code></p>
 
 <p>where,</p>
 
-<pre><code>`indx()`. _varlist_ for the index. `indx()` could be empty, which means that the model is linear rather than a nonlinear index.
+<ul>
+<li><p><code>indx()</code>. <em>varlist</em> for the index. <code>indx()</code> could be empty, which means that the model is linear rather than a nonlinear index.</p></li>
 
-`type()`. Functional form for the nonlinear index. There are two types: CES `type(ces)` and Cobb-Douglas `type(cd)`.
+<li><p><code>type()</code>. Functional form for the nonlinear index. There are two types: CES <code>type(ces)</code> and Cobb-Douglas <code>type(cd)</code>.</p></li>
 
-`estimation()`. Estimation method: NLS `estimation(nls)`, Stochastic Frontier `estimation(sf)`, or Zero-Stochastic Frontier `estimation(zsf)`.
+<li><p><code>estimation()</code>. Estimation method: NLS <code>estimation(nls)</code>, Stochastic Frontier <code>estimation(sf)</code>, or Zero-Stochastic Frontier <code>estimation(zsf)</code>.</p></li>
 
-`eoption()`: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation `eoption(ml)` or Expectation-Maximization Algorithm `eoption(em)`. EM is the default option.
-</code></pre></li>
+<li><p><code>eoption()</code>: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation <code>eoption(ml)</code> or Expectation-Maximization Algorithm <code>eoption(em)</code>. EM is the default option.</p></li>
+</ul></li>
 </ol>
 
 <p>$$\,$$</p>
@@ -541,17 +541,17 @@ $$</p>
 <ul>
 <li><p>Estimation NLS. Let&rsquo;s say that $M=3$ and there are $k$ regressors,</p>
 
-<p><code>chks Y1 x1 x2 ... xk, idx(Y2 Y3) t(ces) es(nls)</code></p>
+<p><code>chks Y1 x1 x2 ... xk, indx(Y2 Y3) t(ces) es(nls)</code></p>
 
-<p>Notes: If <code>idx()</code> is nonempty, variables <code>Y1,...,Ym</code> should be in levels.</p></li>
+<p>Notes: If <code>indx()</code> is nonempty, variables <code>Y1,...,Ym</code> should be in levels.</p></li>
 
 <li><p>On the other hand, if the residual is such that $\epsilon_i=v_i-u_i$ with, $v_i\sim\mathcal{N}(0,\sigma^2_v)$  and $u_i\sim\mathcal{N}^+(0,\sigma^2_u)$, which is bascally a <strong>Nonlinear Stochastic Frontier Model</strong>, the command for estimation would be:</p>
 
-<p><code>chks Y1 x1 x2 ... xk, idx(Y2 Y3) t(ces) es(sf)</code></p></li>
+<p><code>chks Y1 x1 x2 ... xk, indx(Y2 Y3) t(ces) es(sf)</code></p></li>
 
 <li><p>Furthermore, if there is a probability that some $u_i=0$, known as <strong>Zero-Inefficiency Stochastic Frontier</strong> model (see Kumbhakar, Parmeter and Tsionas, 2013, &ldquo;A zero inefficiency stochastic frontier model&rdquo;, in <a href="https://doi.org/10.1016/j.jeconom.2012.08.021" target="_blank"><em>Journal of Econometrics</em> , 172(1), 66-76</a>), the command would be:</p>
 
-<p><code>chks Y1 x1 x2 ...xk, idx(Y2 Y3) t(ces) es(zsf)</code></p>
+<p><code>chks Y1 x1 x2 ...xk, indx(Y2 Y3) t(ces) es(zsf)</code></p>
 
 <p>In this case there are two additional options for the estimation method: Maximum Likelihood Extimation (add <code>eo(ml)</code>) or Expectation-Maximization Algorithm (add <code>eo(em)</code>).</p></li>
 </ul>
