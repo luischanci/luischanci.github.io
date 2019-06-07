@@ -3,14 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://luischanci.ithub.io/publication_types/3/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://luischanci.ithub.io/authors/</loc>
-    <lastmod>2019-03-17T00:00:00-04:00</lastmod>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/tags/business-cycle/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/authors/florian-kuhn/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://luischanci.ithub.io/</loc>
-    <lastmod>2019-03-17T00:00:00-04:00</lastmod>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/publication_types/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/publication/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/tags/search-and-matching/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/tags/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/publication/preprint/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/tags/unemployment/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://luischanci.ithub.io/authors/admin/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -21,18 +79,6 @@
   
   <url>
     <loc>http://luischanci.ithub.io/tags/stata/</loc>
-    <lastmod>2019-03-17T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/tags/</loc>
-    <lastmod>2019-03-17T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/authors/admin/</loc>
     <lastmod>2019-03-17T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -64,77 +110,25 @@
   </url>
   
   <url>
-    <loc>http://luischanci.ithub.io/publication_types/1/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/publication_types/3/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/tags/business-cycle/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://luischanci.ithub.io/publication/conference-paper/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/authors/florian-kuhn/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/publication/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/tags/search-and-matching/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/publication/preprint/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luischanci.ithub.io/tags/unemployment/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://luischanci.ithub.io/tags/firms/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://luischanci.ithub.io/tags/markups/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://luischanci.ithub.io/tags/productivity/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   

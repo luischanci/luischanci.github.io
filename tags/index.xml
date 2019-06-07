@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://luischanci.ithub.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Business Cycle</title>
+      <link>http://luischanci.ithub.io/tags/business-cycle/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://luischanci.ithub.io/tags/business-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search and Matching</title>
+      <link>http://luischanci.ithub.io/tags/search-and-matching/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://luischanci.ithub.io/tags/search-and-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unemployment</title>
+      <link>http://luischanci.ithub.io/tags/unemployment/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://luischanci.ithub.io/tags/unemployment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stata</title>
@@ -30,36 +57,9 @@
     </item>
     
     <item>
-      <title>Business Cycle</title>
-      <link>http://luischanci.ithub.io/tags/business-cycle/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://luischanci.ithub.io/tags/business-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search and Matching</title>
-      <link>http://luischanci.ithub.io/tags/search-and-matching/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://luischanci.ithub.io/tags/search-and-matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unemployment</title>
-      <link>http://luischanci.ithub.io/tags/unemployment/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://luischanci.ithub.io/tags/unemployment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>firms</title>
       <link>http://luischanci.ithub.io/tags/firms/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>http://luischanci.ithub.io/tags/firms/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>markups</title>
       <link>http://luischanci.ithub.io/tags/markups/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>http://luischanci.ithub.io/tags/markups/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>productivity</title>
       <link>http://luischanci.ithub.io/tags/productivity/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>http://luischanci.ithub.io/tags/productivity/</guid>
       <description></description>
