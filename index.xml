@@ -405,11 +405,14 @@ Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>http://luischanci.ithub.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
   &lt;/div&gt;
 &lt;/div&gt;
+
+--&gt;
 </description>
     </item>
     
@@ -438,7 +441,15 @@ Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
       <guid>http://luischanci.ithub.io/publication/journal-article/</guid>
-      <description></description>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
     </item>
     
   </channel>
