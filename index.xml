@@ -45,7 +45,7 @@
 
 &lt;p&gt;The general syntaxis is,&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;chks depvariable xregressors, indx(indexvariables) type() estimation() eoption()&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;chks depvariable xregressors, indx(indexvariables) type() estimation() eoption() maxitera() nonconstant robust&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;where,&lt;/p&gt;
 
@@ -57,6 +57,8 @@
 &lt;li&gt;&lt;p&gt;&lt;code&gt;estimation()&lt;/code&gt;. Estimation method: NLS &lt;code&gt;estimation(nls)&lt;/code&gt;, Stochastic Frontier &lt;code&gt;estimation(sf)&lt;/code&gt;, or Zero-Stochastic Frontier &lt;code&gt;estimation(zsf)&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;code&gt;eoption()&lt;/code&gt;: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation &lt;code&gt;eoption(ml)&lt;/code&gt; or Expectation-Maximization Algorithm &lt;code&gt;eoption(em)&lt;/code&gt;. EM is the default option.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;maxitera()&lt;/code&gt; specifies the maximum number of iterations; the default is 500.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 

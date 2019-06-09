@@ -493,7 +493,7 @@
 
 <p>The general syntaxis is,</p>
 
-<p><code>chks depvariable xregressors, indx(indexvariables) type() estimation() eoption()</code></p>
+<p><code>chks depvariable xregressors, indx(indexvariables) type() estimation() eoption() maxitera() nonconstant robust</code></p>
 
 <p>where,</p>
 
@@ -505,6 +505,8 @@
 <li><p><code>estimation()</code>. Estimation method: NLS <code>estimation(nls)</code>, Stochastic Frontier <code>estimation(sf)</code>, or Zero-Stochastic Frontier <code>estimation(zsf)</code>.</p></li>
 
 <li><p><code>eoption()</code>: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation <code>eoption(ml)</code> or Expectation-Maximization Algorithm <code>eoption(em)</code>. EM is the default option.</p></li>
+
+<li><p><code>maxitera()</code> specifies the maximum number of iterations; the default is 500.</p></li>
 </ul></li>
 </ol>
 
