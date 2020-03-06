@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Luis Chancí</title>
-    <link>http://luischanci.com/authors/admin/</link>
+    <link>https://luischanci.com/authors/admin/</link>
     <description>Recent content in admin on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://luischanci.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luischanci.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Effects of Hiring Discrimination over the Business Cycle</title>
-      <link>http://luischanci.com/publication/bc_effects_of_discrimination/</link>
+      <link>https://luischanci.com/publication/bc_effects_of_discrimination/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.com/publication/bc_effects_of_discrimination/</guid>
+      <guid>https://luischanci.com/publication/bc_effects_of_discrimination/</guid>
       <description>We explore whether hiring discrimination implies a higher volatility of labor market outcomes for discriminated groups in the context of a standard search-and-matching model with an urn-ball matching function.</description>
     </item>
     
     <item>
       <title>chks</title>
-      <link>http://luischanci.com/post/chks/</link>
+      <link>https://luischanci.com/post/chks/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.com/post/chks/</guid>
+      <guid>https://luischanci.com/post/chks/</guid>
       <description>User-written Stata command to estimate a Nonlinear Index and/or Zero Stochastic Frontier Models.</description>
     </item>
     
     <item>
       <title>Energy Shocks, Firms&#39; Productivity and Markups</title>
-      <link>http://luischanci.com/publication/energyshock/</link>
+      <link>https://luischanci.com/publication/energyshock/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://luischanci.com/publication/energyshock/</guid>
-      <description>This paper studies how firms&amp;rsquo; outcomes (i.e., productivity and markups) respond to cost shocks (electricity prices).</description>
+      <guid>https://luischanci.com/publication/energyshock/</guid>
+      <description>This paper studies how firms&amp;rsquo; productivity and markups respond to cost shocks (energy prices).</description>
     </item>
     
     <item>
       <title>Export Diversification Dynamics in Latin America</title>
-      <link>http://luischanci.com/publication/export_diversification/</link>
+      <link>https://luischanci.com/publication/export_diversification/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.com/publication/export_diversification/</guid>
+      <guid>https://luischanci.com/publication/export_diversification/</guid>
       <description>In this chapter, we construct a set of export diversification measures in order to give a detailed view of export diversification dynamics in Latin America.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://luischanci.com/author/admin/</link>
+      <link>https://luischanci.com/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://luischanci.com/author/admin/</guid>
+      <guid>https://luischanci.com/author/admin/</guid>
       <description>
-Welcome to my web page. My name is Luis David Chancí-Arango and I am a PhD Candidate in Economics at the State University of New York at Binghamton. I also hold an appointment as professor of economics at U.S.T.-Chile. My broad areas of interest are Macroeconomics, Econometrics, and Industrial Organization.
+Welcome to my web page. My name is Luis David Chancí-Arango and I am a PhD Candidate in Economics at the State University of New York at Binghamton. I also hold an appointment as professor of economics at U.S.T., Chile. My research agenda focuses on two areas: (1) the intersection of productivity analysis and econometrics; (2) the intersection of macroeconomics and labor economics.
  Luis Chanci </description>
     </item>
     

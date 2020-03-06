@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Luis Chancí</title>
-    <link>http://luischanci.com/authors/</link>
+    <link>https://luischanci.com/authors/</link>
     <description>Recent content in Authors on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://luischanci.com/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luischanci.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Florian Kuhn</title>
-      <link>http://luischanci.com/authors/florian-kuhn/</link>
+      <link>https://luischanci.com/authors/florian-kuhn/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.com/authors/florian-kuhn/</guid>
+      <guid>https://luischanci.com/authors/florian-kuhn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>http://luischanci.com/authors/admin/</link>
+      <link>https://luischanci.com/authors/admin/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.com/authors/admin/</guid>
+      <guid>https://luischanci.com/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manuel Agosin</title>
-      <link>http://luischanci.com/authors/manuel-agosin/</link>
+      <link>https://luischanci.com/authors/manuel-agosin/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.com/authors/manuel-agosin/</guid>
+      <guid>https://luischanci.com/authors/manuel-agosin/</guid>
       <description></description>
     </item>
     

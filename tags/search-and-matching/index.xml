@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search and Matching on Luis Chancí</title>
-    <link>http://luischanci.com/tags/search-and-matching/</link>
+    <link>https://luischanci.com/tags/search-and-matching/</link>
     <description>Recent content in Search and Matching on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://luischanci.com/tags/search-and-matching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luischanci.com/tags/search-and-matching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Effects of Hiring Discrimination over the Business Cycle</title>
-      <link>http://luischanci.com/publication/bc_effects_of_discrimination/</link>
+      <link>https://luischanci.com/publication/bc_effects_of_discrimination/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://luischanci.com/publication/bc_effects_of_discrimination/</guid>
+      <guid>https://luischanci.com/publication/bc_effects_of_discrimination/</guid>
       <description>We explore whether hiring discrimination implies a higher volatility of labor market outcomes for discriminated groups in the context of a standard search-and-matching model with an urn-ball matching function.</description>
     </item>
     
