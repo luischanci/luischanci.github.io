@@ -6,27 +6,27 @@
     <description>Recent content in Teaching on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luischanci.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent or currently teaching</title>
-      <link>https://luischanci.com/teaching/recent/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://luischanci.com/teaching/recent/</guid>
-      <description>ECON466, Intro to Econometrics at Binghamton University.</description>
-    </item>
-    
-    <item>
       <title>Teaching Experience</title>
       <link>https://luischanci.com/teaching/experience/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://luischanci.com/teaching/experience/</guid>
       <description>All Course (Syllabus, Teaching Evaluations, and others).</description>
+    </item>
+    
+    <item>
+      <title>Recent or currently teaching</title>
+      <link>https://luischanci.com/teaching/recent/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://luischanci.com/teaching/recent/</guid>
+      <description>ECON466, Intro to Econometrics at Binghamton University.</description>
     </item>
     
   </channel>

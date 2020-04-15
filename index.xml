@@ -6,10 +6,147 @@
     <description>Recent content on Luis Chancí</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 -0400</lastBuildDate>
     
 	    <atom:link href="https://luischanci.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Energy Prices, Markups, and Productivity</title>
+      <link>https://luischanci.com/publication/energyshock/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://luischanci.com/publication/energyshock/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>https://luischanci.com/teaching/experience/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luischanci.com/teaching/experience/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;econometrics&#34;&gt;ECONOMETRICS&lt;/h2&gt;
+
+&lt;p&gt;$$y_i=\beta_0+\beta_1x_1+\ldots+\beta_kx_k+u_i$$&lt;/p&gt;
+
+&lt;h5 id=&#34;state-university-of-new-york-at-binghamton-usa&#34;&gt;State University of New York at Binghamton, USA&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Instructor.&lt;/strong&gt; &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;Introduction to Econometrics, ECON-466.&lt;/a&gt; Spring, 2019.&lt;br /&gt;
+Undergraduate-level. Textbooks: &lt;a href=&#34;https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107&#34; target=&#34;_blank&#34;&gt;Wooldridge&lt;/a&gt; and &lt;a href=&#34;https://www.pearson.com/us/higher-education/product/Stock-Introduction-to-Econometrics-3rd-Edition/9780138009007.html&#34; target=&#34;_blank&#34;&gt;Stock and Watson&lt;/a&gt;.&lt;br /&gt;
+&lt;a href=&#34;https://luischanci.com/documents/Syllabus_ECON466_CHANCI.pdf&#34;&gt;Syllabus available here&lt;/a&gt;. Teaching Evaluations not available yet.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Guest lecture.&lt;/strong&gt; &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;Econometrics, ECON-616&lt;/a&gt;, Ph.D. core. Spring 2018.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Teaching Assistant.&lt;/strong&gt; Econometrics.&lt;br /&gt;
+Instructor: &lt;a href=&#34;http://bingweb.binghamton.edu/~kkar/&#34; target=&#34;_blank&#34;&gt;Subal Kumbhakar&lt;/a&gt;. &lt;br /&gt;
+Ph.D. core (Spring 2018, Spring 2017) and undergraduate (Spring 2019).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;universidad-santo-tomás-chile&#34;&gt;Universidad Santo Tomás, Chile&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Econometrics, ICO-084, undergraduate-level. 2012 to 2015.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;macroeconomics&#34;&gt;MACROECONOMICS&lt;/h2&gt;
+
+&lt;p&gt;$$V(k)=\max_{k&amp;rsquo;\in\Gamma(k)}{F(k,k&amp;rsquo;)+\beta V(k&amp;rsquo;)}$$&lt;/p&gt;
+
+&lt;h5 id=&#34;state-university-of-new-york-at-binghamton-usa-1&#34;&gt;State University of New York at Binghamton, USA&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Principles of Macroeconomics, ECON-162, undergraduate-level. Expected, Summer 2019.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Instructor: &lt;a href=&#34;http://www.floriankuhn.com/&#34; target=&#34;_blank&#34;&gt;Florian Kuhn&lt;/a&gt;&lt;br /&gt;
+Advanced Macroeconomics II, ECON-696, Ph.D. elective course. Spring 2016.&lt;br /&gt;
+Macroeconomics I, ECON-613, Ph.D. core. Fall 2016.&lt;/li&gt;
+&lt;li&gt;Instructor: &lt;a href=&#34;https://www.binghamton.edu/economics/people/tenured-and-tenure-track-faculty/hanes.html&#34; target=&#34;_blank&#34;&gt;Christopher L. Hanes&lt;/a&gt;&lt;br /&gt;
+Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;universidad-santo-tomás-chile-1&#34;&gt;Universidad Santo Tomás, Chile&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics, undergraduate-level. 2012 - 2015.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;universidad-diego-portales-chile&#34;&gt;Universidad Diego Portales, Chile&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics I and II, undergraduate-level. 2010 - 2012.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;microeconomics&#34;&gt;MICROECONOMICS&lt;/h2&gt;
+
+&lt;h5 id=&#34;state-university-of-new-york-at-binghamton-usa-2&#34;&gt;State University of New York at Binghamton, USA&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Principles of Microeconomics, ECON-160, undergraduate-level. Fall-2017.
+
+&lt;ul&gt;
+&lt;li&gt;Textbook: &lt;a href=&#34;https://www.cengage.com/c/principles-of-microeconomics-8e-mankiw&#34; target=&#34;_blank&#34;&gt;Mankiw&lt;/a&gt;. Syllabus &lt;a href=&#34;https://luischanci.com/documents/Syllabus_ECON160_CHANCI.pdf&#34;&gt;available here&lt;/a&gt;. Teaching evaluation &lt;a href=&#34;https://luischanci.com/documents/Teaching_Evaluation_ECON160.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent or currently teaching</title>
+      <link>https://luischanci.com/teaching/recent/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://luischanci.com/teaching/recent/</guid>
+      <description>
+
+&lt;h3 id=&#34;econometrics&#34;&gt;ECONOMETRICS&lt;/h3&gt;
+
+&lt;p&gt;Introduction to Econometrics, ECON-466, at Binghamton University. Spring, 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;material&#34;&gt;Material&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;New (2019):&lt;/strong&gt; &lt;a href=&#34;https://luischanci.com/presentations/ECON466/slides&#34;&gt;Slides for the final part (Intro to Causal Inference)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;All the material is on &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;MyCourses (Blackboard)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://luischanci.com/documents/Syllabus_ECON466_CHANCI.pdf&#34;&gt;Syllabus&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Textbooks: &lt;a href=&#34;https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107&#34; target=&#34;_blank&#34;&gt;Wooldridge&lt;/a&gt; and &lt;a href=&#34;https://www.pearson.com/us/higher-education/product/Stock-Introduction-to-Econometrics-3rd-Edition/9780138009007.html&#34; target=&#34;_blank&#34;&gt;Stock and Watson&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Software: &lt;a href=&#34;http://www.stata.com&#34; target=&#34;_blank&#34;&gt;Stata&lt;/a&gt; and &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Effects of Hiring Discrimination over the Business Cycle</title>
@@ -291,149 +428,12 @@ Iteration 34:  f(p) =  793.27611
     </item>
     
     <item>
-      <title>Recent or currently teaching</title>
-      <link>https://luischanci.com/teaching/recent/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://luischanci.com/teaching/recent/</guid>
-      <description>
-
-&lt;h3 id=&#34;econometrics&#34;&gt;ECONOMETRICS&lt;/h3&gt;
-
-&lt;p&gt;Introduction to Econometrics, ECON-466, at Binghamton University. Spring, 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;material&#34;&gt;Material&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt; &lt;a href=&#34;https://luischanci.com/presentations/ECON466/slides&#34;&gt;Slides for the final part (Intro to Causal Inference)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;All the material is on &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;MyCourses (Blackboard)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://luischanci.com/documents/Syllabus_ECON466_CHANCI.pdf&#34;&gt;Syllabus&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Textbooks: &lt;a href=&#34;https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107&#34; target=&#34;_blank&#34;&gt;Wooldridge&lt;/a&gt; and &lt;a href=&#34;https://www.pearson.com/us/higher-education/product/Stock-Introduction-to-Econometrics-3rd-Edition/9780138009007.html&#34; target=&#34;_blank&#34;&gt;Stock and Watson&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Software: &lt;a href=&#34;http://www.stata.com&#34; target=&#34;_blank&#34;&gt;Stata&lt;/a&gt; and &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teaching Experience</title>
-      <link>https://luischanci.com/teaching/experience/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luischanci.com/teaching/experience/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;econometrics&#34;&gt;ECONOMETRICS&lt;/h2&gt;
-
-&lt;p&gt;$$y_i=\beta_0+\beta_1x_1+\ldots+\beta_kx_k+u_i$$&lt;/p&gt;
-
-&lt;h5 id=&#34;state-university-of-new-york-at-binghamton-usa&#34;&gt;State University of New York at Binghamton, USA&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Instructor.&lt;/strong&gt; &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;Introduction to Econometrics, ECON-466.&lt;/a&gt; Spring, 2019.&lt;br /&gt;
-Undergraduate-level. Textbooks: &lt;a href=&#34;https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107&#34; target=&#34;_blank&#34;&gt;Wooldridge&lt;/a&gt; and &lt;a href=&#34;https://www.pearson.com/us/higher-education/product/Stock-Introduction-to-Econometrics-3rd-Edition/9780138009007.html&#34; target=&#34;_blank&#34;&gt;Stock and Watson&lt;/a&gt;.&lt;br /&gt;
-&lt;a href=&#34;https://luischanci.com/documents/Syllabus_ECON466_CHANCI.pdf&#34;&gt;Syllabus available here&lt;/a&gt;. Teaching Evaluations not available yet.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Guest lecture.&lt;/strong&gt; &lt;a href=&#34;http://mycourses.binghamton.edu&#34; target=&#34;_blank&#34;&gt;Econometrics, ECON-616&lt;/a&gt;, Ph.D. core. Spring 2018.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Teaching Assistant.&lt;/strong&gt; Econometrics.&lt;br /&gt;
-Instructor: &lt;a href=&#34;http://bingweb.binghamton.edu/~kkar/&#34; target=&#34;_blank&#34;&gt;Subal Kumbhakar&lt;/a&gt;. &lt;br /&gt;
-Ph.D. core (Spring 2018, Spring 2017) and undergraduate (Spring 2019).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&#34;universidad-santo-tomás-chile&#34;&gt;Universidad Santo Tomás, Chile&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Econometrics, ICO-084, undergraduate-level. 2012 to 2015.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;macroeconomics&#34;&gt;MACROECONOMICS&lt;/h2&gt;
-
-&lt;p&gt;$$V(k)=\max_{k&amp;rsquo;\in\Gamma(k)}{F(k,k&amp;rsquo;)+\beta V(k&amp;rsquo;)}$$&lt;/p&gt;
-
-&lt;h5 id=&#34;state-university-of-new-york-at-binghamton-usa-1&#34;&gt;State University of New York at Binghamton, USA&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Principles of Macroeconomics, ECON-162, undergraduate-level. Expected, Summer 2019.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Instructor: &lt;a href=&#34;http://www.floriankuhn.com/&#34; target=&#34;_blank&#34;&gt;Florian Kuhn&lt;/a&gt;&lt;br /&gt;
-Advanced Macroeconomics II, ECON-696, Ph.D. elective course. Spring 2016.&lt;br /&gt;
-Macroeconomics I, ECON-613, Ph.D. core. Fall 2016.&lt;/li&gt;
-&lt;li&gt;Instructor: &lt;a href=&#34;https://www.binghamton.edu/economics/people/tenured-and-tenure-track-faculty/hanes.html&#34; target=&#34;_blank&#34;&gt;Christopher L. Hanes&lt;/a&gt;&lt;br /&gt;
-Macroeconomics II, ECON-613, Ph.D. core.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&#34;universidad-santo-tomás-chile-1&#34;&gt;Universidad Santo Tomás, Chile&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics, undergraduate-level. 2012 - 2015.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&#34;universidad-diego-portales-chile&#34;&gt;Universidad Diego Portales, Chile&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Macroeconomics I and II, undergraduate-level. 2010 - 2012.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;microeconomics&#34;&gt;MICROECONOMICS&lt;/h2&gt;
-
-&lt;h5 id=&#34;state-university-of-new-york-at-binghamton-usa-2&#34;&gt;State University of New York at Binghamton, USA&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Principles of Microeconomics, ECON-160, undergraduate-level. Fall-2017.
-
-&lt;ul&gt;
-&lt;li&gt;Textbook: &lt;a href=&#34;https://www.cengage.com/c/principles-of-microeconomics-8e-mankiw&#34; target=&#34;_blank&#34;&gt;Mankiw&lt;/a&gt;. Syllabus &lt;a href=&#34;https://luischanci.com/documents/Syllabus_ECON160_CHANCI.pdf&#34;&gt;available here&lt;/a&gt;. Teaching evaluation &lt;a href=&#34;https://luischanci.com/documents/Teaching_Evaluation_ECON160.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Energy Shocks, Firms&#39; Productivity and Markups</title>
-      <link>https://luischanci.com/publication/energyshock/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://luischanci.com/publication/energyshock/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
-
---&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CV</title>
       <link>https://luischanci.com/post/cv/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luischanci.com/post/cv/</guid>
-      <description>&lt;iframe src=&#39;https://luischanci.com/MyCV/CV_Chanci.pdf&#39; width=&#34;100%&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt;
+      <description>&lt;p&gt;&lt;iframe src=&#39;https://luischanci.com/MyCV/CV_Chanci.pdf&#39; width=&#34;100%&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt; #toolbar=0&lt;/p&gt;
 </description>
     </item>
     

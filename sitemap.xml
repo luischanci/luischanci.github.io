@@ -4,13 +4,86 @@
   
   <url>
     <loc>https://luischanci.com/publication_types/3/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luischanci.com/authors/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/publication/energyshock/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/publication_types/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/publication/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/tags/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/authors/admin/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/tags/firms/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/tags/markups/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/tags/productivity/</loc>
+    <lastmod>2020-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/teaching/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/teaching/experience/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/teaching/recent/</loc>
+    <lastmod>2020-02-02T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luischanci.com/tags/teaching/</loc>
+    <lastmod>2020-02-02T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -27,30 +100,7 @@
   </url>
   
   <url>
-    <loc>https://luischanci.com/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/publication_types/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/publication/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luischanci.com/tags/search-and-matching/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/tags/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -62,12 +112,6 @@
   
   <url>
     <loc>https://luischanci.com/tags/unemployment/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/authors/admin/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -86,50 +130,6 @@
   <url>
     <loc>https://luischanci.com/post/chks/</loc>
     <lastmod>2019-03-17T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/teaching/recent/</loc>
-    <lastmod>2019-02-02T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/tags/teaching/</loc>
-    <lastmod>2019-02-02T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/teaching/</loc>
-    <lastmod>2019-02-02T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/teaching/experience/</loc>
-    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/publication/energyshock/</loc>
-    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/tags/firms/</loc>
-    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/tags/markups/</loc>
-    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luischanci.com/tags/productivity/</loc>
-    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

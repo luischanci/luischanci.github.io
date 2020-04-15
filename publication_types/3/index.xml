@@ -6,10 +6,19 @@
     <description>Recent content in 3 on Luis Chancí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://luischanci.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Energy Prices, Markups, and Productivity</title>
+      <link>https://luischanci.com/publication/energyshock/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://luischanci.com/publication/energyshock/</guid>
+      <description>This paper studies how firms&amp;rsquo; productivity and markups respond to energy cost-shocks.</description>
+    </item>
     
     <item>
       <title>The Effects of Hiring Discrimination over the Business Cycle</title>
@@ -18,15 +27,6 @@
       
       <guid>https://luischanci.com/publication/bc_effects_of_discrimination/</guid>
       <description>We explore whether hiring discrimination implies a higher volatility of labor market outcomes for discriminated groups in the context of a standard search-and-matching model with an urn-ball matching function.</description>
-    </item>
-    
-    <item>
-      <title>Energy Shocks, Firms&#39; Productivity and Markups</title>
-      <link>https://luischanci.com/publication/energyshock/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://luischanci.com/publication/energyshock/</guid>
-      <description>This paper studies how firms&amp;rsquo; productivity and markups respond to cost shocks (energy prices).</description>
     </item>
     
   </channel>
