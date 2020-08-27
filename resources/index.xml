@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources | Luis Chancí</title>
-    <link>luischanci.github.io/resources/</link>
-      <atom:link href="luischanci.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.luischanci.com/resources/</link>
+      <atom:link href="https://www.luischanci.com/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/luischanci.github.io/images/icon_hu635d5985cb5f6b0d5ac60cc246d5e890_970_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.luischanci.com/images/icon_hu635d5985cb5f6b0d5ac60cc246d5e890_970_512x512_fill_lanczos_center_2.png</url>
       <title>Resources</title>
-      <link>luischanci.github.io/resources/</link>
+      <link>https://www.luischanci.com/resources/</link>
     </image>
     
     <item>
       <title>CV</title>
-      <link>luischanci.github.io/resources/cv/</link>
+      <link>https://www.luischanci.com/resources/cv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>luischanci.github.io/resources/cv/</guid>
+      <guid>https://www.luischanci.com/resources/cv/</guid>
       <description>&lt;iframe src=&#39;https://luischanci.com/MyCV/CV_Chanci.pdf&#39; width=&#34;100%&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>chks</title>
-      <link>luischanci.github.io/resources/chks/</link>
+      <link>https://www.luischanci.com/resources/chks/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 -0500</pubDate>
-      <guid>luischanci.github.io/resources/chks/</guid>
+      <guid>https://www.luischanci.com/resources/chks/</guid>
       <description>&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
