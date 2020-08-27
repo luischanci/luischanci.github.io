@@ -1,105 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Luis Chancí</title>
-    <link>https://luischanci.com/tags/</link>
-    <description>Recent content in Tags on Luis Chancí</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://luischanci.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>firms</title>
-      <link>https://luischanci.com/tags/firms/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/firms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markups</title>
-      <link>https://luischanci.com/tags/markups/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/markups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>productivity</title>
-      <link>https://luischanci.com/tags/productivity/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://luischanci.com/tags/teaching/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://luischanci.com/tags/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business Cycle</title>
-      <link>https://luischanci.com/tags/business-cycle/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/business-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search and Matching</title>
-      <link>https://luischanci.com/tags/search-and-matching/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/search-and-matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unemployment</title>
-      <link>https://luischanci.com/tags/unemployment/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/unemployment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stata</title>
-      <link>https://luischanci.com/tags/stata/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://luischanci.com/tags/stata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diversification</title>
-      <link>https://luischanci.com/tags/diversification/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/diversification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exports</title>
-      <link>https://luischanci.com/tags/exports/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://luischanci.com/tags/exports/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Luis Chancí</title>
+    <link>luischanci.github.io/tags/</link>
+      <atom:link href="luischanci.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/luischanci.github.io/images/icon_hu635d5985cb5f6b0d5ac60cc246d5e890_970_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>luischanci.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

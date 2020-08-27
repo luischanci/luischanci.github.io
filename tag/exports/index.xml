@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exports | Luis Chancí</title>
+    <link>luischanci.github.io/tag/exports/</link>
+      <atom:link href="luischanci.github.io/tag/exports/index.xml" rel="self" type="application/rss+xml" />
+    <description>Exports</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/luischanci.github.io/images/icon_hu635d5985cb5f6b0d5ac60cc246d5e890_970_512x512_fill_lanczos_center_2.png</url>
+      <title>Exports</title>
+      <link>luischanci.github.io/tag/exports/</link>
+    </image>
+    
+    <item>
+      <title>Export Diversification Dynamics in Latin America</title>
+      <link>luischanci.github.io/research/export_diversification/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
+      <guid>luischanci.github.io/research/export_diversification/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
