@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis Chancí</title>
+    <link>https://www.luischanci.com/teaching2/experience/</link>
+      <atom:link href="https://www.luischanci.com/teaching2/experience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis Chancí</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.luischanci.com/images/icon_hua235b20c26de23a006d4e436991121ab_970_512x512_fill_lanczos_center_2.png</url>
+      <title>Luis Chancí</title>
+      <link>https://www.luischanci.com/teaching2/experience/</link>
+    </image>
+    
+  </channel>
+</rss>
