@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Comando chks</title>
+      <title>chks</title>
       <link>https://www.luischanci.com/es/otros/chks/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 -0300</pubDate>
       <guid>https://www.luischanci.com/es/otros/chks/</guid>
@@ -53,7 +53,7 @@
 &lt;p&gt;&lt;code&gt;net install chks, from(https://luischanci.github.io/chks/) replace&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Manual installation: &lt;a href=&#34;https://github.com/luischanci/chks/zipball/master&#34;&gt;Download&lt;/a&gt;, unzip, and locate all the files into the Stata ado folder (for instance, locate the unzipped ado and other files into &lt;code&gt;C:\ado\personal\m\&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Manual installation: &lt;a href=&#34;https://github.com/luischanci/chks/zipball/master&#34;&gt;Download&lt;/a&gt;, unzip, and locate all the files into the Stata ado folder (for instance, locate the unzipped ado and other files into &lt;code&gt;C:\ado\personal\c\&lt;/code&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -279,7 +279,15 @@ di 1/(1+exp(-.5607503))
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/br&gt;
-&lt;p&gt;Final notes: This is a first draft (or a work in progress). Please provide me with any comment you may have on bugs, wording, inconsistencies, etc.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/br&gt;
+&lt;p&gt;Final notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s a draft (2019). Please provide me with any comments you may have on bugs, wording, inconsistencies, etc.&lt;/li&gt;
+&lt;li&gt;All files available here are for education and/or research purposes ONLY. The code within this repository comes with no guarantee, the use of this code is your responsibility.&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/luischanci/chks&#34;&gt;Repository&lt;/a&gt;
+&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
