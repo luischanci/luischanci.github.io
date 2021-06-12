@@ -27,7 +27,7 @@
 &lt;p&gt;&lt;code&gt;net install chks, from(https://luischanci.github.io/chks/) replace&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Manual installation: &lt;a href=&#34;https://github.com/luischanci/chks/zipball/master&#34;&gt;Download&lt;/a&gt;, unzip, and locate all the files into the Stata ado folder (for instance, locate the unzipped ado and other files into &lt;code&gt;C:\ado\personal\m\&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Manual installation: &lt;a href=&#34;https://github.com/luischanci/chks/zipball/master&#34;&gt;Download&lt;/a&gt;, unzip, and locate all the files into the Stata ado folder (for instance, locate the unzipped ado and other files into &lt;code&gt;C:\ado\personal\c\&lt;/code&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
