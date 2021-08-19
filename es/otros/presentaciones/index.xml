@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentaciones | Luis Chancí</title>
+    <title>Presentaciones (vinculación) | Luis Chancí</title>
     <link>https://www.luischanci.com/es/otros/presentaciones/</link>
       <atom:link href="https://www.luischanci.com/es/otros/presentaciones/index.xml" rel="self" type="application/rss+xml" />
-    <description>Presentaciones</description>
+    <description>Presentaciones (vinculación)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.luischanci.com/images/icon_hua235b20c26de23a006d4e436991121ab_970_512x512_fill_lanczos_center_2.png</url>
-      <title>Presentaciones</title>
+      <title>Presentaciones (vinculación)</title>
       <link>https://www.luischanci.com/es/otros/presentaciones/</link>
     </image>
     
     <item>
-      <title>UST Admisión</title>
+      <title>La Ruta de La Seda China: Desafíos y Oportunidades</title>
+      <link>https://www.luischanci.com/es/otros/presentaciones/ust19ago2021/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.luischanci.com/es/otros/presentaciones/ust19ago2021/</guid>
+      <description>&lt;/br&gt;
+&lt;h2 id=&#34;presentación-para-cercotec-coquimbo-19-agosto-2021&#34;&gt;Presentación para Cercotec Coquimbo 19 Agosto 2021&lt;/h2&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSzADyB62-D7V_LWu3ZW-oOcFXA2SvDASUbNDXCIiXQiWoZLfgodrOqYEGLptIv5A/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;900&#34; height=&#34;600&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tus `likes&#39; en Facebook, Twitter, y otras redes sociales vistos desde el Big Data y la Economía</title>
       <link>https://www.luischanci.com/es/otros/presentaciones/ust07jun2021/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://www.luischanci.com/es/otros/presentaciones/ust07jun2021/</guid>
-      <description>&lt;h2 id=&#34;presentación-7-junio-2021&#34;&gt;Presentación 7 Junio 2021&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;presentación-para-ust-admisión-7-junio-2021&#34;&gt;Presentación Para UST Admisión 7 Junio 2021&lt;/h2&gt;
 &lt;/br&gt;
 &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTDkSilJpqRooDysXv0HRC6TUK6Ym8ahDN534511O9iWrUmh6ZEVoXcMyhXXXi-IqCasa0Nsxp94yqZ/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;900&#34; height=&#34;550&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;/br&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
