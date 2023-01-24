@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.luischanci.com/es/docencia/econometria/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/docencia/experiencia/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.luischanci.com/es/otros/presentaciones/ust19ago2021/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.luischanci.com/es/otros/cv/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/es/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,41 +23,27 @@
                 hreflang="es"
                 href="https://www.luischanci.com/es/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/otros/</loc>
-    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.luischanci.com/es/investigacion/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/es/otros/presentaciones/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.luischanci.com/es/otros/presentaciones/ust19ago2021/</loc>
+    <lastmod>2021-08-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/es/otros/presentaciones/ust07jun20210/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/docencia/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.luischanci.com/es/otros/cv/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.luischanci.com/es/investigacion/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/authors/</loc>
-    <lastmod>2019-03-17T00:00:00-03:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,16 +54,12 @@
                 hreflang="es"
                 href="https://www.luischanci.com/es/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/otros/chks/</loc>
-    <lastmod>2019-03-17T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/es/author/luis-chanci/</loc>
-    <lastmod>2019-03-17T00:00:00-03:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -95,11 +70,9 @@
                 hreflang="es"
                 href="https://www.luischanci.com/es/author/luis-chanci/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/tag/stata/</loc>
-    <lastmod>2019-03-17T00:00:00-03:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,11 +83,9 @@
                 hreflang="es"
                 href="https://www.luischanci.com/es/tag/stata/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/tags/</loc>
-    <lastmod>2019-03-17T00:00:00-03:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -125,9 +96,7 @@
                 hreflang="es"
                 href="https://www.luischanci.com/es/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -139,9 +108,7 @@
                 hreflang="es"
                 href="https://www.luischanci.com/es/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/es/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -154,5 +121,4 @@
                 href="https://www.luischanci.com/es/publication_types/"
                 />
   </url>
-  
 </urlset>

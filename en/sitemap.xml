@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.luischanci.com/teaching/econ466/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/teaching/experience/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.luischanci.com/resources/cv/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -25,21 +23,18 @@
                 hreflang="en"
                 href="https://www.luischanci.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.luischanci.com/resources/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/teaching/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/publication-type/3/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/authors/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -50,26 +45,18 @@
                 hreflang="en"
                 href="https://www.luischanci.com/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/authors/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/research_old/energyshock/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/tag/firms/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/author/luis-chanci/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -80,21 +67,15 @@
                 hreflang="en"
                 href="https://www.luischanci.com/author/luis-chanci/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/tag/markups/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/tag/productivity/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/publication_types/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -105,16 +86,12 @@
                 hreflang="en"
                 href="https://www.luischanci.com/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/research_old/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/tags/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -125,66 +102,36 @@
                 hreflang="en"
                 href="https://www.luischanci.com/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.luischanci.com/resources/cv/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/research/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.luischanci.com/resources/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/author/an-example-preprint-/-working-paper/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/tag/business-cycle/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/author/florian-kuhn/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/tag/search-and-matching/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/research_old/bc_effects_of_discrimination/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/tag/unemployment/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/resources/chks/</loc>
-    <lastmod>2019-03-17T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/tag/stata/</loc>
-    <lastmod>2019-03-17T00:00:00-03:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -195,34 +142,22 @@
                 hreflang="en"
                 href="https://www.luischanci.com/tag/stata/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.luischanci.com/publication-type/6/</loc>
-    <lastmod>2015-05-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/tag/diversification/</loc>
-    <lastmod>2015-05-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/research_old/export_diversification/</loc>
-    <lastmod>2015-05-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/tag/exports/</loc>
-    <lastmod>2015-05-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/author/manuel-agosin/</loc>
-    <lastmod>2015-05-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.luischanci.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -235,5 +170,4 @@
                 href="https://www.luischanci.com/categories/"
                 />
   </url>
-  
 </urlset>
