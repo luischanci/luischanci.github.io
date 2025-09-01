@@ -220,52 +220,6 @@
   <link rel="stylesheet" href="/css/academic.css">
 
   
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1PK9F28LTP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-1PK9F28LTP', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
-
-
-  
   
 
   
@@ -297,7 +251,7 @@
   <meta property="og:description" content="Luis David Chancí Arango"><meta property="og:image" content="https://www.luischanci.com/images/icon_hua235b20c26de23a006d4e436991121ab_970_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://www.luischanci.com/images/icon_hua235b20c26de23a006d4e436991121ab_970_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-01T00:00:00&#43;00:00">
+    
   
 
   
@@ -753,33 +707,6 @@ In this website you can find information related to [teaching](/teaching), [rese
 
     
     
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/research_old/energyshock/">Energy Prices, Markups, and Productivity</a>
-        </li>
-        
-        <li>
-          <a href="/author/an-example-preprint-/-working-paper/">An example preprint / working paper</a>
-        </li>
-        
-        <li>
-          <a href="/research_old/bc_effects_of_discrimination/">The Effects of Hiring Discrimination over the Business Cycle</a>
-        </li>
-        
-        <li>
-          <a href="/resources/chks/">chks</a>
-        </li>
-        
-        <li>
-          <a href="/research_old/export_diversification/">Export Diversification Dynamics in Latin America</a>
-        </li>
-        
-      </ul>
-    </div>
     
   </div>
 </section>

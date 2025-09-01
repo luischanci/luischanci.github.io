@@ -169,5 +169,17 @@
                 hreflang="en"
                 href="https://www.luischanci.com/categories/"
                 />
+  </url><url>
+    <loc>https://www.luischanci.com/author/luis-chanci/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.luischanci.com/es/author/luis-chanci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.luischanci.com/author/luis-chanci/"
+                />
   </url>
 </urlset>

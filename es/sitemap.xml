@@ -109,6 +109,18 @@
                 href="https://www.luischanci.com/es/categories/"
                 />
   </url><url>
+    <loc>https://www.luischanci.com/es/author/luis-chanci/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.luischanci.com/author/luis-chanci/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.luischanci.com/es/author/luis-chanci/"
+                />
+  </url><url>
     <loc>https://www.luischanci.com/es/publication_types/</loc>
     <xhtml:link
                 rel="alternate"

@@ -218,52 +218,6 @@
   <link rel="stylesheet" href="/css/academic.css">
 
   
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1PK9F28LTP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-1PK9F28LTP', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
-
-
-  
   
 
   
@@ -589,11 +543,26 @@ About: In this chapter, we construct a set of export diversification measures in
 <br><br></p>
 </li>
 </ul>
+<h3 id="documentos-de-trabajo">Documentos de Trabajo</h3>
+<ul>
+<li>
+<p><strong>Interconnectedness and Banking Performance: Insights from the Interbank Lending Market in Chile (2025).</strong> 
+<a href="https://www.luischanci.com/documents/bankingperformance.pdf" target="_blank" rel="noopener"><u>Working Paper</u></a><br>
+About: This paper provides evidence suggesting that bank networks, typically viewed through the lens of contagion risk, may also be a key source of industry-wide performance gains.
+<br><br></p>
+</li>
+<li>
+<p>Energy prices, firms&rsquo; productivity and market power by industry.  Evidence from a developing country (2020). 
+<a href="https://www.luischanci.com/Paper_Energy_GitTex/Paper_Energy_Chanci.pdf" target="_blank" rel="noopener"><u>Working Paper</u></a><br>
+About: In this paper I study whether energy prices affects Chilean manufacturing firms&rsquo; productivity and markups by industry. (Third-year paper for the doctoral program).
+<br><br></p>
+</li>
+</ul>
 <h3 id="en-progreso">En Progreso</h3>
 <ul>
 <li>
 <p><strong>Interconnectedness, Banking Performance, Risk Contagion, and Response to Shocks.</strong>  <br>
-About: This is my <u>current main research project</u>, developed in collaboration with the Chilean regulatory authority (CMF). The agenda focuses on investigating the impact of interconnectedness among banks on their performance, risk management, and response to economic shocks. Utilizing advanced econometric techniques, including network data analysis and semi-parametric econometrics, this research leverages private administrative records to uncover significant insights into the banking sector.<br><br></p>
+About: This is my <u>(current) main research agenda</u>, developed in collaboration with the Chilean regulatory authority (CMF) and funded by the Chilean government (ANID Fondecyt Iniciación 11250893). The agenda focuses on investigating the impact of interconnectedness among banks on their performance, risk management, and response to economic shocks. Utilizing advanced econometric techniques, including network data analysis and semi-parametric econometrics, this research leverages private administrative records (from the interbank market and balance sheets) to uncover significant insights into the banking sector.<br><br></p>
 </li>
 <li>
 <p><strong>Spillovers, Efficiency, and Human Capital in Farming Production: A Semiparametric Smooth Coefficient Spatial Autoregressive Approach</strong><br>
@@ -601,15 +570,8 @@ About: A collaborative research project with the Department of Agriculture at US
 </li>
 <li>
 <p><strong>Labor Productivity and Real Wages</strong><br>
-About: This project explores the disconnect between labor productivity and real wages in Latin America, employing household surveys and macroeconomic econometric techniques. <br><br></p>
+About: A collaborative research project that explores the lack ofconnection between labor productivity and real wages in Latin America. We employ household surveys and macroeconomic econometric techniques. <br><br></p>
 </li>
-</ul>
-<h3 id="documentos-de-trabajo">Documentos de Trabajo</h3>
-<ul>
-<li><strong>Energy prices, firms&rsquo; productivity and market power by industry.  Evidence from a developing country (2020).</strong> 
-<a href="https://www.luischanci.com/Paper_Energy_GitTex/Paper_Energy_Chanci.pdf" target="_blank" rel="noopener"><u>Working Paper</u></a><br>
-About: In this paper I study whether energy prices affects Chilean manufacturing firms&rsquo; productivity and markups by industry.
-<br><br></li>
 </ul>
 <h3 id="otros">Otros</h3>
 <ul>
