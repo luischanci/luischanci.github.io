@@ -1,18 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://www.luischanci.com/en/sitemap.xml</loc>
-    
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://www.luischanci.com/es/sitemap.xml</loc>
-    
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://luischanci.github.io/resources/chks.html</loc>
+    <lastmod>2025-09-02T16:08:57.161Z</lastmod>
+  </url>
+  <url>
+    <loc>https://luischanci.github.io/teaching.html</loc>
+    <lastmod>2025-09-02T03:31:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://luischanci.github.io/research.html</loc>
+    <lastmod>2025-09-02T15:40:39.285Z</lastmod>
+  </url>
+  <url>
+    <loc>https://luischanci.github.io/cv.html</loc>
+    <lastmod>2025-09-02T01:00:07.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://luischanci.github.io/resources.html</loc>
+    <lastmod>2025-09-02T16:19:23.899Z</lastmod>
+  </url>
+  <url>
+    <loc>https://luischanci.github.io/index.html</loc>
+    <lastmod>2025-09-02T16:15:35.647Z</lastmod>
+  </url>
+</urlset>

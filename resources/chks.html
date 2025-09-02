@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Luis Chancí</title>
+<title>chks – Luis Chancí</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="././images/icon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fd32e123221b44295610988ed6e829a5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href=".././images/icon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1534e38f58e83f26c08498c0a989c43d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,24 +79,53 @@ gtag('js', new Date());
 gtag('config', 'G-1PK9F28LTP', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Luis Chancí">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="chks – Luis Chancí">
 <meta property="og:description" content="Luis Chancí’s personal website.">
 <meta property="og:site_name" content="Luis Chancí">
-<meta name="twitter:title" content="Luis Chancí">
+<meta name="twitter:title" content="chks – Luis Chancí">
 <meta name="twitter:description" content="Luis Chancí’s personal website.">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Luis Chancí</span>
     </a>
   </div>
@@ -108,19 +136,19 @@ gtag('config', 'G-1PK9F28LTP', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
+    <a class="nav-link" href="../resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
@@ -134,112 +162,266 @@ gtag('config', 'G-1PK9F28LTP', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#chks-a-stata-command-for-frontier-models" id="toc-chks-a-stata-command-for-frontier-models" class="nav-link active" data-scroll-target="#chks-a-stata-command-for-frontier-models"><code>chks</code>: A Stata Command for Frontier Models</a>
+  <ul class="collapse">
+  <li><a href="#development-status-disclaimer" id="toc-development-status-disclaimer" class="nav-link" data-scroll-target="#development-status-disclaimer">Development Status &amp; Disclaimer</a></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started">Getting Started</a></li>
+  <li><a href="#model-specification" id="toc-model-specification" class="nav-link" data-scroll-target="#model-specification">Model Specification</a></li>
+  <li><a href="#using-the-code." id="toc-using-the-code." class="nav-link" data-scroll-target="#using-the-code.">Using the code.</a></li>
+  <li><a href="#examples." id="toc-examples." class="nav-link" data-scroll-target="#examples.">Examples.</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="./images/avatar.jpg" class="about-image
-  round " style="height: 14em; width: 14em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Luis Chancí</h1>
+<h1 class="title">chks</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://github.com/luischanci" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=H3S8NIUAAAAJ&amp;hl=en" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="ai  ai-google-scholar" aria-label="google-scholar"></i> Google-scholar</span>
-  </a>
-  <a href="mailto:luischanci@santotomas.cl" class="about-link" rel="" target="">
-    <i class="bi bi-envelope-at"></i>
-     <span class="about-link-text">luischanci@santotomas.cl</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="welcome-to-my-web-page" class="level2">
-<h2 data-anchor-id="welcome-to-my-web-page">Welcome to my web page!</h2>
-<p><u><strong>Luis</strong></u> <span style="color:gray">David</span> <u><strong>Chancí</strong></u><span style="color:gray">-Arango</span> is an Associate Professor of Economics at the Faculty of Business and Economics at the Universidad Santo Tomás, Santiago de Chile.</p>
-<section id="education" class="level3">
-<h3 data-anchor-id="education">Education</h3>
-<ul>
-<li>University of New York at Binghamton, USA. | Ph.D.&nbsp;in Economics.</li>
-<li>Universidad de Chile, Chile. | M.Sc. in Economics.</li>
-<li>Universidad de Medellín, Colombia | B.S. in Environmental Engineering</li>
-</ul>
+
+
+<section id="chks-a-stata-command-for-frontier-models" class="level1">
+<h1><code>chks</code>: A Stata Command for Frontier Models</h1>
+<p><code>chks</code> is a user-written Stata command designed to estimate Nonlinear Index Models and <strong>Zero Stochastic Frontier (ZSF) Models</strong>.</p>
+<section id="development-status-disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="development-status-disclaimer">Development Status &amp; Disclaimer</h2>
+<p><strong>Please note:</strong> This command was developed in 2018 as part of my doctoral studies. It is provided “as-is” and is no longer under active development. While the code has not been updated since its initial release, it may still be useful for estimating basic models.</p>
 </section>
-<section id="research-interest" class="level3">
-<h3 data-anchor-id="research-interest">Research Interest</h3>
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
+<ol type="1">
+<li><p><strong>Install.</strong> You can choose from one of the following two methods to install:</p>
 <ul>
-<li>Primary: The intersection of (applied) econometrics with productivity and efficiency analysis.<br> <span style="color:gray; font-size:90%;">Structural identification of firm-level production functions.</span><br> <span style="color:gray; font-size:90%;">Semiparametric and Nonparametric Econometrics.</span></li>
-<li>Secondary: Economic Fluctuations in Macroeconomics.<br> <span style="color:gray; font-size:90%;">Econometric analysis of (interbank) networks and macroeconomic shocks.</span><br> <span style="color:gray; font-size:90%;">Business cycle fluctuations and hiring dynamics (e.g., using Search-and-Matching models).</span></li>
-</ul>
+<li><p>From the Stata command window:</p>
+<p><code>net install chks, from(https://luischanci.github.io/chks/) replace</code></p></li>
+<li><p>Manual installation: <a href="https://github.com/luischanci/chks/zipball/master">Download</a>, unzip, and locate all the files into the Stata ado folder (for instance, locate the unzipped ado and other files into <code>C:\ado\personal\c\</code>).</p></li>
+</ul></li>
+<li><p><strong>Syntaxis.</strong></p>
+<p>The general syntaxis is,</p>
+<p><code>chks depvariable xregressors, indx(indexvariables) type() estimation() eoption() maxitera() nonconstant robust</code></p>
+<p>where,</p>
+<ul>
+<li><p><code>indx()</code>. <em>varlist</em> for the index. <code>indx()</code> could be empty, which means that the model is linear rather than a nonlinear index.</p></li>
+<li><p><code>type()</code>. Functional form for the nonlinear index. There are two types: CES <code>type(ces)</code> and Cobb-Douglas <code>type(cd)</code>.</p></li>
+<li><p><code>estimation()</code>. Estimation method: NLS <code>estimation(nls)</code>, Stochastic Frontier <code>estimation(sf)</code>, or Zero-Stochastic Frontier <code>estimation(zsf)</code>.</p></li>
+<li><p><code>eoption()</code>: is the estimation option when estimation is ZSF. It could be Maximum Likelihood Estimation <code>eoption(ml)</code> or Expectation-Maximization Algorithm <code>eoption(em)</code>. EM is the default option.</p></li>
+<li><p><code>maxitera()</code> specifies the maximum number of iterations; the default is 500.</p></li>
+</ul></li>
+</ol>
+<p><span class="math display">\[\,\]</span></p>
 </section>
-<section id="research-agenda" class="level3">
-<h3 data-anchor-id="research-agenda">Research Agenda</h3>
-<style>
-/* This is the parent container for the section */
-.particles-section {
-  position: relative;   /* Establishes a positioning context */
-  padding: 2rem 1.5rem; /* Adds some space so text isn't on the edge */
-  border-radius: 10px;  /* Optional: adds rounded corners */
-  overflow: hidden;     /* Ensures the particles don't spill out */
-  color: white;         /* Change text color for better contrast */
-}
-/* This is the canvas for the particles animation */
-#particles-js {
-  position: absolute; /* Positioned relative to .particles-section */
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1; /* Puts it behind the text */
-  background-color: #2c3e50; /* A darker background for the animation */
-  background-image: none; /* Ensure no other background is inherited */
-}
-</style>
-<div class="particles-section">
-  <div id="particles-js"></div>
-  <p>
-  <strong>
-  Interconnectedness, Banking Performance, Risk Contagion, and Response to Shocks.
-  </strong><br>
-  Developed in collaboration with Chile's financial regulator (CMF) and funded by the Chilean government (ANID Fondecyt Iniciación 11250893), my current research agenda investigates how bank interconnectedness influences performance, risk management, and responses to economic shocks. By applying novel econometric techniques—such as network analysis and semi-parametric models—to confidential administrative data on interbank exposures and balance sheets, this research aims to generate new insights into the functioning and resilience of the banking sector.
-  <br>
-  </p>
-  </div>
-<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<script>
-    particlesJS("particles-js", { // Make sure the ID here matches your container's ID
-        "particles": {
-            "number": {"value": 85, "density": {"enable": true, "value_area": 800}},
-            "color": {"value": "#ffffff"},
-            "shape": {"type": "circle"},
-            "opacity": {"value": 0.5, "random": false},
-            "size": {"value": 3, "random": true},
-            "line_linked": {"enable": true, "distance": 150, "color": "#ffffff", "opacity": 0.4, "width": 1},
-            "move": {"enable": true, "speed": 6, "direction": "none", "out_mode": "out"}
-        },
-        "interactivity": {
-            "detect_on": "canvas",
-            "events": {"onhover": {"enable": true, "mode": "repulse"}, "onclick": {"enable": true, "mode": "push"}, "resize": true},
-            "modes": {"repulse": {"distance": 100}, "push": {"particles_nb": 4}}
-        },
-        "retina_detect": true
-    });
-</script>
+<section id="model-specification" class="level2">
+<h2 class="anchored" data-anchor-id="model-specification">Model Specification</h2>
+<p>The general model is like,</p>
+<p><span class="math display">\[
+log(\eta)_i=x_i\beta'+\epsilon_i
+\]</span></p>
+<p>where, <span class="math inline">\(\eta\)</span> is a nonlinear index and <span class="math inline">\(x_{i}\)</span> is a vector of explanatory variables.</p>
+<p>To ilustrate, <span class="math inline">\(\eta\)</span> in a CES specifiction would be like,</p>
+<p><span class="math display">\[
+\eta=\left(\sum_{m=1}^M{\delta_mY_m^\rho}\right)^{1/\rho}
+\]</span></p>
+<p>thus, the model to estimate becomes,</p>
+<p><span class="math display">\[
+log(Y_1)_i=-(1/\rho)*log\left(1+\sum_r^{M-1}{\delta_r (C_r^{\rho}-1)}\right)+x_i\beta'+\epsilon_i
+\]</span></p>
+<p>with, <span class="math inline">\(C_r=(Y_r/Y_1)\)</span>, and <span class="math inline">\(r\neq1\)</span>.</p>
+<p><span class="math display">\[\,\]</span></p>
+</section>
+<section id="using-the-code." class="level2">
+<h2 class="anchored" data-anchor-id="using-the-code.">Using the code.</h2>
+<ul>
+<li><p>Estimation NLS. Let’s say that <span class="math inline">\(M=3\)</span> and there are <span class="math inline">\(k\)</span> regressors,</p>
+<p><code>chks Y1 x1 x2 ... xk, indx(Y2 Y3) t(ces) es(nls)</code></p>
+<p>Notes: If <code>indx()</code> is nonempty, variables <code>Y1,...,Ym</code> should be in levels.</p></li>
+<li><p>On the other hand, if the residual is such that <span class="math inline">\(\epsilon_i=v_i-u_i\)</span> with, <span class="math inline">\(v_i\sim\mathcal{N}(0,\sigma^2_v)\)</span> and <span class="math inline">\(u_i\sim\mathcal{N}^+(0,\sigma^2_u)\)</span>, which is bascally a <strong>Nonlinear Stochastic Frontier Model</strong>, the command for estimation would be:</p>
+<p><code>chks Y1 x1 x2 ... xk, indx(Y2 Y3) t(ces) es(sf)</code></p></li>
+<li><p>Furthermore, if there is a probability that some <span class="math inline">\(u_i=0\)</span>, known as <strong>Zero-Inefficiency Stochastic Frontier</strong> model (see Kumbhakar, Parmeter and Tsionas, 2013, “A zero inefficiency stochastic frontier model”, in <a href="https://doi.org/10.1016/j.jeconom.2012.08.021"><em>Journal of Econometrics</em> , 172(1), 66-76</a>), the command would be:</p>
+<p><code>chks Y1 x1 x2 ...xk, indx(Y2 Y3) t(ces) es(zsf)</code></p>
+<p>In this case there are two additional options for the estimation method: Maximum Likelihood Extimation (add <code>eo(ml)</code>) or Expectation-Maximization Algorithm (add <code>eo(em)</code>).</p></li>
+</ul>
+<p><strong>Final comments.</strong> Other specifications are: a Cobb-Douglas index or linear functions. For instance, a version of a linear Zero-Inefficiency Stochastic Frontier model would be:</p>
+<p><span class="math display">\[y_i=x_i\beta'+\epsilon_i\]</span></p>
+<p>with <span class="math inline">\(\epsilon_i=v_i-u_i\)</span>, and <span class="math inline">\(v_i\sim\mathcal{N}(0,\sigma^2_v)\)</span> and <span class="math inline">\(u_i\sim\mathcal{N}^+(0,\sigma^2_u)\)</span>. In this case, the command would be:</p>
+<p><code>chks y1 x1 x2, es(zsf)</code></p>
+<p>Finally, it is possible to report the robust standard errors (add <code>robust</code>) or omit the constant term (add <code>nocons</code>).</p>
+<p><span class="math display">\[\,\]</span></p>
+</section>
+<section id="examples." class="level2">
+<h2 class="anchored" data-anchor-id="examples.">Examples.</h2>
+<ul>
+<li><p><strong>Example 1: A Linear Z-SF.</strong></p>
+<p>Data (simulation). To illustrate the use of the command, I am going to use a simulation proposed by Diego Restrepo (of course, any mistake would be my responsability). The code for a cost function would be,</p>
+<pre><code>clear all
+set obs 1000
+gen x = rnormal()/10
+gen v = rnormal()/10
+gen z = rnormal()
+gentrun double u, left(0)     /* Need module GENTRUN */
+replace u = u/10              /* u ~ Truncated-left N(0,0.1)*/
+replace u = 0 if _n &gt; _N-_N/2 /* For a  p=50%, u=0, no inefficiency*/
+gen       e = v - u           /* For production function (not cost)*/
+gen       y = 1 + x + e</code></pre>
+<p>Command: <code>chks y x, es(zsf)</code> for EM-algorithm and <code>chks y x, es(zsf) eo(ml)</code> for MLE.</p>
+<p>Results using MLE:</p>
+<pre><code>. chks y x, es(zsf) eo(ml)
+Zero Stochastic Frontier for linear models
+(ZSF, linear model)
+.
+.
+.
+Iteration 12:  f(p) =  715.46477
+Iteration 13:  f(p) =  715.46477
+ (Zero) Stochastic Frontier, linear model. M.L.E.
+-----------------------------------------------------------------------------------
+                y |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+------------------+----------------------------------------------------------------
+                x |   1.020781   .0376483    27.11   0.000     .9469912     1.09457
+            _cons |   .9688054   .0050194   193.01   0.000     .9589675    .9786434
+        lnsigma_u |  -1.677142   .3815109    -4.40   0.000    -2.424889   -.9293944
+        lnsigma_v |  -2.170457   .0289882   -74.87   0.000    -2.227272   -2.113641
+logist_probabil~y |   3.404257   1.090584     3.12   0.002     1.266751    5.541763
+-----------------------------------------------------------------------------------</code></pre>
+<p>Results using EM-algorithm:</p>
+<pre><code>. chks y x, es(zsf)
+Zero Stochastic Frontier for linear models
+(ZSF, linear model)
+.
+.
+.
+(Zero) Stochastic Frontier, linear model. EM-Algorithm.
+-----------------------------------------------------------------------------------
+                y |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+------------------+----------------------------------------------------------------
+                x |   1.021142   .0367627    27.78   0.000     .9490882    1.093195
+            _cons |   .9699379   .0036587   265.10   0.000     .9627669    .9771089
+        lnsigma_u |  -1.775768   .1535916   -11.56   0.000    -2.076802   -1.474734
+        lnsigma_v |  -2.175327   .0227074   -95.80   0.000    -2.219833   -2.130821
+logist_probabil~y |    3.07854   .1541839    19.97   0.000     2.776345    3.380734
+-----------------------------------------------------------------------------------</code></pre></li>
+</ul>
+<p><span class="math display">\[\,\]</span></p>
+<ul>
+<li><p><strong>Example 2: Nonlinear index</strong>.</p>
+<p>Estimation using NLS</p>
+<pre><code>```
+use https://luischanci.github.io/chks/chksdata1, clear
+chks Y1 x1 x2, indx(Y2 Y3) es(nls) t(ces) r
+
+Iteration 16:  f(p) =  12.058803
+  -----------------------------------------------------------------------------------
+                Y1 |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+  -----------+-----------------------------------------------------------------------
+                x1 |   .0158278   .0006196    25.54   0.000     .0146134    .0170422
+                x2 |   .0401204   .0008423    47.63   0.000     .0384695    .0417712
+              _cons|   2.894777   .0180462   160.41   0.000     2.859407    2.930146
+                Y2 |    .225702    .012979    17.39   0.000     .2002636    .2511403
+                Y3 |   .5136438   .0136537    37.62   0.000     .4868831    .5404046
+               rho |   2.301384   .1146792    20.07   0.000     2.076617    2.526151
+  -----------------------------------------------------------------------------------
+```</code></pre>
+<p>In this particular example, in which there is a nonlinear function without additional especifications in the residual term, a similar result could be obtained by using NLS in Stata:</p>
+<pre><code>```
+g  ly1 = ln(Y1)
+g  ry2 = Y2/Y1
+g  ry3 = Y3/Y1
+
+    nl (ly1 = -(1/{rho = 0.5})*ln( 1 +                    ///
+                        {delta2 = 0.3}*(ry2^{rho}-1) +  ///
+                        {delta3 = 0.3}*(ry3^{rho}-1) )  ///
+                        + ({b0}+{b1}*x1+{b2}*x2) ), r
+
+Iteration 6:  residual SS =   12.0588
+Iteration 7:  residual SS =   12.0588
+
+
+Nonlinear regression                                Number of obs =      1,000
+                                                    R-squared     =     0.9839
+                                                    Adj R-squared =     0.9838
+                                                    Root MSE      =   .1101435
+                                                    Res. dev.     =  -1580.083
+
+  -----------------------------------------------------------------------------------
+                   |               Robust
+               ly1 |      Coef.   Std. Err.      t    P&gt;|t|     [95% Conf. Interval]
+  -----------------------------------------------------------------------------------
+              /rho |   2.301383   .1085109    21.21   0.000     2.088447     2.51432
+           /delta2 |    .225702   .0124839    18.08   0.000     .2012041    .2501999
+           /delta3 |   .5136438   .0134125    38.30   0.000     .4873237    .5399639
+               /b0 |   2.894777   .0180631   160.26   0.000      2.85933    2.930223
+               /b1 |   .0158278   .0006212    25.48   0.000     .0146087    .0170469
+               /b2 |   .0401204   .0008432    47.58   0.000     .0384657     .041775
+  -----------------------------------------------------------------------------------
+Parameter b0 taken as constant term in model
+```</code></pre></li>
+<li><p><strong>Example 3: Non-linear (Index) Stochastic Frontier</strong>.</p>
+<pre><code>  chks Y1 x1 x2, indx(Y2 Y3) es(sf) t(ces) r
+Iteration 34:  f(p) =  793.27611
+    -----------------------------------------------------------------------------------
+                Y1 |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+    -----------------------------------------------------------------------------------
+                x1 |   .0155817   .0006264    24.87   0.000      .014354    .0168095
+                x2 |   .0392952   .0009681    40.59   0.000     .0373978    .0411925
+             _cons |   2.993987   .0264685   113.11   0.000      2.94211    3.045865
+                Y2 |   .2249359   .0125398    17.94   0.000     .2003583    .2495134
+                Y3 |   .5125146   .0132849    38.58   0.000     .4864766    .5385526
+                rho|   2.296911   .1106526    20.76   0.000     2.080036    2.513786
+         lnsigma_u |  -2.206232   .1435049   -15.37   0.000    -2.487496   -1.924967
+         lnsigma_v |  -2.435302   .0812527   -29.97   0.000    -2.594555    -2.27605
+    ------------------------------------------------------------------------------</code></pre></li>
+<li><p><strong>Example 4: Non-linear (Index). Zero Stochastic Frontier</strong>.</p>
+<p><code>chks Y1 x1 x2, indx(Y2 Y3) t(ces) es(zsf) eo(em)</code></p>
+<pre><code>  ------------------------------------------------------------------------------
+           Y1 |      Coef.   Std. Err.      z    P&gt;|z|     [95% Conf. Interval]
+  ------------------------------------------------------------------------------
+           x1 |   .0155953   .0005609    27.81   0.000     .014496    .0166946
+           x2 |   .0392709   .0007659    51.27   0.000    .0377697    .0407721
+        _cons |   2.935441   .0167206   175.56   0.000    2.902669    2.968213
+           Y2 |   .2252023   .0124254    18.12   0.000    .2008489    .2495557
+           Y3 |   .5117927   .0132434    38.65   0.000    .4858362    .5377493
+          rho |   2.293806   .1025533    22.37   0.000    2.092805    2.494807
+    lnsigma_u |  -2.299401   .0789157   -29.14   0.000   -2.454073   -2.144729
+    lnsigma_v |  -2.340403   .0252419   -92.72   0.000   -2.389876    -2.29093
+  logist_prob |   .5607503   .0657478     8.53   0.000    .4318871    .6896136
+  ------------------------------------------------------------------------------
+  di 1/(1+exp(-.5607503))
+  0.63662613</code></pre>
+<p><br></p></li>
+</ul>
+<hr>
+<p><br></p>
+<p>Final notes:</p>
+<ul>
+<li>It’s a draft (2019). Please provide me with any comments you may have on bugs, wording, inconsistencies, etc.</li>
+<li>All files available here are for education and/or research purposes ONLY. The code within this repository comes with no guarantee, the use of this code is your responsibility.</li>
+<li>Github: <a href="https://github.com/luischanci/chks">Repository</a> <br></li>
+</ul>
 
 
 </section>
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -260,6 +442,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
