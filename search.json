@@ -7,6 +7,27 @@
     "text": "Welcome! This page gathers the materials I have developed for my courses. In a developing country, students and academics often face barriers to accessing up-to-date textbooks and references, so I have written and compiled these resources over the years and share them openly. Feel free to use them in your own learning or teaching. If you spot any mistake or have suggestions, I would deeply appreciate your feedback at luischanci@santotomas.cl.\n\n\nGraduate level\n\nEconometrics ( econometria.luischanci.com )  About: Advanced treatment of econometric principles for cross-sectional, panel, and time-series data sets. \nComputational and Numerical Methods in Econometrics  About: This course introduces graduate students to computational approaches for solving econometric models. The first part reviews numerical methods and their implementation in software such as Julia, R, Python, and Stata. The second part covers applications in additional topics in econometrics. \n\n\n\nUndergraduate level\n\nPrinciples of Macroeconomics ( https://fundmacro.luischanci.com )  About: Introductory macroeconomics (in Spanish). \nPrinciples of Microeconomics ( https://fundmicro.luischanci.com/ )  About: Introductory microeconomics (in Spanish). \nEconometrics  About: ECON466 - Introductory econometrics at State University of New York at Binghamton, U.S.A. 2019; Econometrics at UST, Chile (2010-2015)."
   },
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Code and research-workflow configurations from my own work, free to reuse. Dates mark first release."
+  },
+  {
+    "objectID": "resources.html#research-assistant-kits",
+    "href": "resources.html#research-assistant-kits",
+    "title": "Resources",
+    "section": "Research-assistant kits",
+    "text": "Research-assistant kits\n\n\nTwo setups for using an AI agent as a research assistant in applied econometrics. The Claude Code kit gives the agent more autonomy; the local kit keeps a smaller model on one approved step at a time.\n\n\n\n2026 September\n\n\nLocal LLM research starter\nA configuration for running a local model as a research assistant on well-defined tasks, with data kept on the workstation. A single AGENTS.md sets the rules the agent follows each session:\n\nRole. The PI decides; the assistant computes and never invents data, variables, or results.\nContext discipline. At most three files per task; datasets are summarized, never opened directly.\nOne step at a time. Plan, execute, report, and stop for approval.\nReference notes. Nine notes in refs/ (econometrics in R and Julia, verification, replication, proofreading, and others), read only when needed.\n\nSetup I use: Ollama with Qwen3.8 27B and OpenCode, on a workstation with 128 GB of RAM and an RTX 5090.\n\n\n\nRuns on\n\nOllama Qwen3.8 27B OpenCode\n\nLanguages\n\nR Julia Stata LaTeX\n\nShell\n\nWindows PowerShell\n\nStatus\n\nActive\n\nLicense\n\nMIT\n\n\n\n\nRepository\nAGENTS.md\n\n\n\n\n\n\n2026 February\n\n\nClaude Code research starter kit\nA Claude Code setup for applied econometrics projects in R, Stata, Julia, and LaTeX. Copy it into a new project, paste the starter prompt, and Claude adapts the configuration and works plan-first.\n\n16 skills. Workflow commands (/data-analysis, /review-paper, /lit-review, and others) and econometrics references for R, Julia, causal inference, and Stata (reghdfe, csdid, rdrobust, and others).\n4 review agents. Domain review, proofreading, R code review, and verification.\nRules, hooks, and quality gates for planning, logging, replication, and code conventions.\n\nHooks are written for PowerShell; the README covers macOS and Linux.\n\n\n\nRuns on\n\nClaude Code\n\nLanguages\n\nR Stata Julia LaTeX\n\nShell\n\nPowerShell (bash notes included)\n\nStatus\n\nActive\n\nLicense\n\nMIT\n\n\n\n\nRepository\nQuick start"
+  },
+  {
+    "objectID": "resources.html#code-and-software",
+    "href": "resources.html#code-and-software",
+    "title": "Resources",
+    "section": "Code and software",
+    "text": "Code and software\n\n\nReplication code and a Stata command from my papers.\n\n\n\n2023 August\n\n\nSpatial autoregressive stochastic frontier with fixed effects: crime under-reporting in Bogotá\nR replication notebook for Chancí, Kumbhakar, and Sandoval, Crime under-reporting in Bogotá: a spatial panel model with fixed effects, Empirical Economics 66(5), 2024. A spatial autoregressive stochastic frontier panel with fixed effects, where the one-sided error measures under-reporting, estimated for six offences across Bogotá’s police quadrants. Reproduces Tables 1–3 and 5.\n\n\n\nLanguage\n\nR 4.3.1\n\nPackages\n\nspdep spatialreg splm plm sf frontier\n\nStatus\n\nReplication archive\n\n\n\n\nNotebook\nPaper\n\n\n\n\n\n\n2019 March\n\n\nchks: nonlinear index and zero-inefficiency stochastic frontier models\nStata command for nonlinear-index models (CES or Cobb–Douglas), estimated by NLS, as a stochastic frontier, or as a zero-inefficiency stochastic frontier (ML or EM). Developed for a 2019 working paper with Kumbhakar and Sandoval.\nnet install chks, from(\"https://luischanci.github.io/chks/\") replace\nhelp chks\n\n\n\nLanguage\n\nStata\n\nVersion\n\n1.1\n\nStatus\n\nProvided as is; not maintained\n\n\n\n\nDocumentation\nRepository"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Luis Chancí",
